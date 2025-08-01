@@ -2009,6 +2009,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-08-01 01:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-08-01 00:54:29 +0000"
@@ -2018,6 +2024,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-01 00:54:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-08-01 01:10:11 +0000"
     },
     "done": true
   },
@@ -2045,6 +2057,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-08-01 01:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-01 00:54:29 +0000"
@@ -2060,6 +2078,12 @@
   "toughasnails:recipes/tools/thermometer": {
     "criteria": {
       "has_redstone": "2025-08-01 00:54:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-08-01 01:23:10 +0000"
     },
     "done": true
   },

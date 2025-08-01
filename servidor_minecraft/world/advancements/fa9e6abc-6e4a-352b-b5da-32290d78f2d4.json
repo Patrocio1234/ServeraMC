@@ -1721,5 +1721,35 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-08-01 01:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-01 01:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-01 01:04:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-08-01 01:17:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-08-01 01:22:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -3036,3 +3036,114 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01Aug2025 01:06:32.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
 [01Aug2025 01:06:46.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
 [01Aug2025 01:06:47.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[01Aug2025 01:08:39.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[01Aug2025 01:08:40.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:08:41.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[01Aug2025 01:08:42.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[01Aug2025 01:08:46.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
+[01Aug2025 01:08:54.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 01:08:54.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 01:09:18.290] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:09:20.777] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:10:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tmarsi219 a server operator
+[01Aug2025 01:10:04.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[01Aug2025 01:10:04.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:10:08.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Mariachi?]
+[01Aug2025 01:10:11.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[01Aug2025 01:10:11.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanluto has made the advancement [Mariachi?]
+[01Aug2025 01:10:11.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[01Aug2025 01:10:16.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
+[01Aug2025 01:10:38.290] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:11:24.788] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:11:28.889] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:11:30.140] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:11:30.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanluto was doomed to fall by Tmarsi219
+[01Aug2025 01:11:32.721] [Server thread/DEBUG] [twilightforest/]: Player juanluto (218b6e9e-21be-3eec-8d87-a8a731d1db60) respawned and received items held in storage
+[01Aug2025 01:11:32.721] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:12:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported juanluto to Tmarsi219
+[01Aug2025 01:12:57.092] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:13:01.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanluto has completed the challenge [Mariachi!]
+[01Aug2025 01:13:54.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 01:13:54.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 01:16:09.885] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:16:12.688] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:16:19.434] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:16:22.384] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:16:25.386] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:17:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has completed the challenge [Mariachi!]
+[01Aug2025 01:17:50.017] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:17:50.597] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:17:52.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:17:52.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanluto died
+[01Aug2025 01:17:53.879] [Server thread/DEBUG] [twilightforest/]: Player juanluto (218b6e9e-21be-3eec-8d87-a8a731d1db60) respawned and received items held in storage
+[01Aug2025 01:17:53.880] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:18:06.863] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:18:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by juanluto
+[01Aug2025 01:18:09.466] [Server thread/DEBUG] [twilightforest/]: Player Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4) respawned and received items held in storage
+[01Aug2025 01:18:09.466] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:18:54.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 01:18:54.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 01:20:54.597] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:22:49.497] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:22:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was struck by lightning
+[01Aug2025 01:22:49.502] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:22:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanluto was struck by lightning
+[01Aug2025 01:22:51.043] [Server thread/DEBUG] [twilightforest/]: Player Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4) respawned and received items held in storage
+[01Aug2025 01:22:51.043] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:22:52.109] [Server thread/DEBUG] [twilightforest/]: Player juanluto (218b6e9e-21be-3eec-8d87-a8a731d1db60) respawned and received items held in storage
+[01Aug2025 01:22:52.109] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:23:03.476] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[01Aug2025 01:23:03.481] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[01Aug2025 01:23:03.490] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[01Aug2025 01:23:03.552] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Aug2025 01:23:03.731] [Worker-Main-1/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[01Aug2025 01:23:03.732] [Worker-Main-1/DEBUG] [citadel/]: surface rule recursive depth: 9
+[01Aug2025 01:23:07.983] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for juanluto at BlockPos{x=-1448, y=4, z=-1158}
+[01Aug2025 01:23:08.351] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=-181, y=73, z=-151}
+[01Aug2025 01:23:08.360] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=-1448, y=4, z=-1158}
+[01Aug2025 01:23:08.361] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-182, y=73, z=-152}
+[01Aug2025 01:23:08.361] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-181, y=73, z=-151}
+[01Aug2025 01:23:08.361] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-182, y=73, z=-151}
+[01Aug2025 01:23:08.361] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-181, y=73, z=-152}
+[01Aug2025 01:23:09.637] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1448, y=4, z=-1158}
+[01Aug2025 01:23:09.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6207ms or 124 ticks behind
+[01Aug2025 01:23:10.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! -1265.1891436013643,-68.92159999847412,-1006.935930484791
+[01Aug2025 01:23:38.587] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-181, y=73, z=-151}
+[01Aug2025 01:23:39.641] [Worker-Main-1/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[01Aug2025 01:23:39.641] [Worker-Main-1/DEBUG] [citadel/]: surface rule recursive depth: 15
+[01Aug2025 01:23:41.250] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-181, y=73, z=-151}
+[01Aug2025 01:23:41.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
+[01Aug2025 01:23:41.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 1267.1298803496381,69.32352912385574,1007.1195050423112
+[01Aug2025 01:24:03.611] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[01Aug2025 01:24:03.615] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[01Aug2025 01:24:03.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 01:24:03.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 01:26:04.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tmarsi219 a server operator
+[01Aug2025 01:26:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:26:18.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[01Aug2025 01:27:04.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
+[01Aug2025 01:28:17.714] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[01Aug2025 01:28:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Aug2025 01:28:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Aug2025 01:28:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Aug2025 01:28:48.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[01Aug2025 01:28:48.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[01Aug2025 01:28:48.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Aug2025 01:28:48.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Aug2025 01:28:49.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Aug2025 01:28:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Aug2025 01:28:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[01Aug2025 01:28:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[01Aug2025 01:28:49.056] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[01Aug2025 01:28:49.060] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[01Aug2025 01:28:49.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 01:28:49.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 01:28:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Aug2025 01:28:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Aug2025 01:28:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Aug2025 01:28:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[01Aug2025 01:28:49.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[01Aug2025 01:28:49.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Aug2025 01:28:49.128] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[01Aug2025 01:28:49.128] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[01Aug2025 01:28:49.128] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
