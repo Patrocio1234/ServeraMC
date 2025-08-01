@@ -125,3 +125,32 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01Aug2025 00:50:02.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/100.122.158.7:59146] logged in with entity id 425 at (-158.68570252110823, 72.0, -150.15007849517386)
 [01Aug2025 00:50:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
 [01Aug2025 00:50:02.740] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[01Aug2025 01:01:04.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tmarsi219 a server operator
+[01Aug2025 01:01:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:01:10.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[01Aug2025 01:01:10.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[01Aug2025 01:02:02.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[01Aug2025 01:02:04.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:02:05.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 fell out of the world
+[01Aug2025 01:02:12.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[01Aug2025 01:02:44.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
+[01Aug2025 01:03:17.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tmarsi219 a server operator
+[01Aug2025 01:03:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[01Aug2025 01:03:39.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Applied effect Night Vision to Tmarsi219]
+[01Aug2025 01:03:56.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:04:03.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[01Aug2025 01:04:08.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to juanluto]
+[01Aug2025 01:04:18.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:04:48.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[01Aug2025 01:04:51.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:04:53.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[01Aug2025 01:04:58.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[01Aug2025 01:04:59.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:05:09.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[01Aug2025 01:05:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[01Aug2025 01:06:09.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[01Aug2025 01:06:20.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[01Aug2025 01:06:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[01Aug2025 01:06:32.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[01Aug2025 01:06:46.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[01Aug2025 01:06:47.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
