@@ -645,6 +645,7 @@
       "minecraft:spider": "2025-08-03 01:18:16 +0000",
       "minecraft:creeper": "2025-08-02 03:46:59 +0000",
       "minecraft:slime": "2025-08-03 01:16:22 +0000",
+      "minecraft:enderman": "2025-08-03 01:43:13 +0000",
       "minecraft:zombie": "2025-08-02 02:39:37 +0000",
       "minecraft:drowned": "2025-08-02 03:03:15 +0000"
     },
@@ -1268,6 +1269,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-02 02:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-03 01:43:15 +0000"
     },
     "done": true
   },
