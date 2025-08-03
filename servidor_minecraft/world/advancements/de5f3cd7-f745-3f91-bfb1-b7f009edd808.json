@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:receive_40_damage": {
+    "criteria": {
+      "receive_40_damage": "2025-08-03 02:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-02 04:14:58 +0000"
@@ -367,6 +373,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 02:28:21 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:hashira": {
     "criteria": {
       "hashira": "2025-08-03 02:18:16 +0000"
@@ -559,6 +571,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:demon_kill_count_20": {
+    "criteria": {
+      "demon_kill_count_20": "2025-08-03 02:22:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-02 03:28:45 +0000"
@@ -613,6 +631,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:receive_60_damage": {
+    "criteria": {
+      "receive_60_damage": "2025-08-03 02:24:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-08-02 04:13:53 +0000"
@@ -640,6 +664,12 @@
   "kimetsunoyaiba:demon_slayer_corps": {
     "criteria": {
       "demon_slayer_corps": "2025-08-02 03:28:55 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:bloody_battle_lower_2": {
+    "criteria": {
+      "bloody_battle_lower_2": "2025-08-03 02:24:35 +0000"
     },
     "done": true
   },
@@ -872,6 +902,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-03 02:28:15 +0000"
     },
     "done": true
   },

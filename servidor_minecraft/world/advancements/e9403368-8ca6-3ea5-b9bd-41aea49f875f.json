@@ -255,6 +255,7 @@
     "criteria": {
       "chicken": "2025-08-02 02:52:54 +0000",
       "cooked_beef": "2025-08-02 03:59:05 +0000",
+      "apple": "2025-08-03 02:23:05 +0000",
       "bread": "2025-08-02 04:13:31 +0000",
       "rotten_flesh": "2025-08-02 03:05:20 +0000",
       "salmon": "2025-08-02 02:37:14 +0000"
@@ -1122,6 +1123,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-02 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:tsuchinoe": {
+    "criteria": {
+      "tsuchinoe": "2025-08-03 02:21:29 +0000"
     },
     "done": true
   },

@@ -715,6 +715,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-03 02:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-02 02:29:09 +0000"
@@ -1153,6 +1159,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 02:24:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-08-03 01:19:32 +0000"
@@ -1370,6 +1382,7 @@
       "minecraft:mountains": "2025-08-03 00:59:07 +0000",
       "minecraft:warm_ocean": "2025-08-03 02:14:19 +0000",
       "minecraft:beach": "2025-08-03 01:15:22 +0000",
+      "minecraft:dark_forest": "2025-08-03 02:28:36 +0000",
       "minecraft:river": "2025-08-02 02:36:08 +0000",
       "minecraft:lukewarm_ocean": "2025-08-03 02:14:09 +0000",
       "minecraft:wooded_hills": "2025-08-02 02:32:06 +0000",
@@ -1436,6 +1449,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 04:41:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 02:28:18 +0000"
     },
     "done": true
   },

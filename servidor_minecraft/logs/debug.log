@@ -2069,3 +2069,86 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [03Aug2025 02:19:38.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Bloody Battle -Upper 4-]
 [03Aug2025 02:20:33.140] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03Aug2025 02:20:33.144] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 02:21:29.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has reached the goal [Tsuchinoe]
+[03Aug2025 02:21:55.802] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 moved wrongly!
+[03Aug2025 02:22:12.466] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/32996, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.466] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/32996, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.466] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/32997, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/32997, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/32998, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/32998, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/32999, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.468] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/32999, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.468] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33000, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.468] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33000, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.468] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33001, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.469] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33001, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.469] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33002, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.469] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33002, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.966] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33068, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.967] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33068, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.967] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33069, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.967] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33069, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.968] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33070, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.968] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33070, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.968] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33071, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.968] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33071, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.968] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33072, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.969] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33072, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.969] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33073, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.969] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33073, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.969] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33074, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:12.970] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletgyokko_fish'/33074, l='ServerLevel[world]', x=-296.50, y=67.43, z=-9.50]
+[03Aug2025 02:22:24.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has made the advancement [Demon Killer 20]
+[03Aug2025 02:22:38.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has made the advancement [Receive 80 Damage]
+[03Aug2025 02:23:22.583] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/34282, l='ServerLevel[world]', x=-226.84, y=69.43, z=-3.53]
+[03Aug2025 02:23:22.584] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/34282, l='ServerLevel[world]', x=-226.84, y=69.43, z=-3.53]
+[03Aug2025 02:23:22.584] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/34283, l='ServerLevel[world]', x=-226.84, y=69.43, z=-3.53]
+[03Aug2025 02:23:22.584] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/34283, l='ServerLevel[world]', x=-226.84, y=69.43, z=-3.53]
+[03Aug2025 02:23:23.063] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/34302, l='ServerLevel[world]', x=-227.28, y=69.43, z=-3.62]
+[03Aug2025 02:23:23.064] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/34302, l='ServerLevel[world]', x=-227.28, y=69.43, z=-3.62]
+[03Aug2025 02:23:23.064] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/34303, l='ServerLevel[world]', x=-227.28, y=69.43, z=-3.62]
+[03Aug2025 02:23:23.064] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/34303, l='ServerLevel[world]', x=-227.28, y=69.43, z=-3.62]
+[03Aug2025 02:23:37.507] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 moved wrongly!
+[03Aug2025 02:23:37.762] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 moved wrongly!
+[03Aug2025 02:23:52.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Tmarsi219はKokushiboに殺害された.player
+[03Aug2025 02:23:52.545] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:-286, y:64, z:11, dim:minecraft:overworld]
+[03Aug2025 02:23:52.567] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[03Aug2025 02:24:07.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [The Most Useful Key]
+[03Aug2025 02:24:12.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [A Fast Comeback]
+[03Aug2025 02:24:24.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has made the advancement [Receive 160 Damage]
+[03Aug2025 02:24:35.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Tmarsi219はKokushiboに殺害された.player
+[03Aug2025 02:24:35.340] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:-294, y:65, z:8, dim:minecraft:overworld]
+[03Aug2025 02:24:35.365] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[03Aug2025 02:24:35.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has reached the goal [Bloody Battle -Lower 2-]
+[03Aug2025 02:25:15.757] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/35815, l='ServerLevel[world]', x=153.99, y=64.43, z=-208.01]
+[03Aug2025 02:25:19.419] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/35957, l='ServerLevel[world]', x=154.50, y=64.43, z=-216.64]
+[03Aug2025 02:25:19.419] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/35958, l='ServerLevel[world]', x=154.50, y=64.43, z=-216.64]
+[03Aug2025 02:25:20.410] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/35987, l='ServerLevel[world]', x=154.45, y=64.43, z=-215.44]
+[03Aug2025 02:25:33.091] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 02:25:33.094] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 02:25:42.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Tmarsi219はKokushiboに殺害された
+[03Aug2025 02:25:42.642] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:-304, y:67, z:-8, dim:minecraft:overworld]
+[03Aug2025 02:25:42.661] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[03Aug2025 02:26:40.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Tmarsi219はKokushiboに殺害された.player
+[03Aug2025 02:26:40.490] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:-290, y:65, z:6, dim:minecraft:overworld]
+[03Aug2025 02:26:40.505] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[03Aug2025 02:27:16.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Teleported Tmarsi219 to kakarotto177]
+[03Aug2025 02:27:16.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.kakarotto177はKokushiboに殺害された
+[03Aug2025 02:27:16.246] [Server thread/DEBUG] [tombstone/]: A new grave of the player kakarotto177 was created at position [x:-284, y:65, z:5, dim:minecraft:overworld]
+[03Aug2025 02:27:16.261] [Server thread/INFO] [tombstone/]: The player kakarotto177 has successfully been saved
+[03Aug2025 02:27:41.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Tmarsi219はKokushiboに殺害された.player
+[03Aug2025 02:27:41.344] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:-274, y:64, z:11, dim:minecraft:overworld]
+[03Aug2025 02:27:41.365] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[03Aug2025 02:27:48.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Teleported kakarotto177 to Tmarsi219]
+[03Aug2025 02:27:53.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 02:28:00.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 02:28:15.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has made the advancement [The Most Useful Key]
+[03Aug2025 02:28:18.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Easy Opening]
+[03Aug2025 02:28:21.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has reached the goal [A Fast Comeback]
+[03Aug2025 02:30:33.303] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 02:30:33.306] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 02:31:13.844] [Worker-Main-6/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[03Aug2025 02:31:13.845] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md98f985$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[03Aug2025 02:31:13.845] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md98f985$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[03Aug2025 02:31:13.845] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md98f985$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
