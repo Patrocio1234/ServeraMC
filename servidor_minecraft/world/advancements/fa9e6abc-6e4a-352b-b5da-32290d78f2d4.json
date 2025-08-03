@@ -440,6 +440,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_love_hashira": {
+    "criteria": {
+      "the_love_hashira": "2025-08-03 03:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-02 04:09:30 +0000"
@@ -800,6 +806,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_water_hashira": {
+    "criteria": {
+      "the_water_hashira": "2025-08-03 03:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-08-03 01:29:47 +0000"
@@ -1022,6 +1034,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_stone_hashira": {
+    "criteria": {
+      "the_stone_hashira": "2025-08-03 03:04:41 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:demon_slayer": {
     "criteria": {
       "demon_slayer": "2025-08-02 02:28:04 +0000"
@@ -1037,6 +1055,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-02 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:overcome_sunlight": {
+    "criteria": {
+      "overcome_sunlight": "2025-08-03 03:05:43 +0000"
     },
     "done": true
   },
@@ -1121,6 +1145,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2025-08-03 01:47:46 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:the_serpent_hashira": {
+    "criteria": {
+      "the_serpent_hashira": "2025-08-03 03:01:10 +0000"
     },
     "done": true
   },
@@ -1322,6 +1352,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_mist_hashira": {
+    "criteria": {
+      "the_mist_hashira": "2025-08-03 03:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-03 01:26:41 +0000"
@@ -1463,6 +1499,12 @@
   "kimetsunoyaiba:bloody_battle_lower_2": {
     "criteria": {
       "bloody_battle_lower_2": "2025-08-02 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:the_wind_hashira": {
+    "criteria": {
+      "the_wind_hashira": "2025-08-03 03:01:31 +0000"
     },
     "done": true
   },
@@ -1798,6 +1840,12 @@
   "kimetsunoyaiba:kinoe": {
     "criteria": {
       "kinoe": "2025-08-02 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:the_insect_hashira": {
+    "criteria": {
+      "the_insect_hashira": "2025-08-03 03:03:43 +0000"
     },
     "done": true
   },
