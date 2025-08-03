@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_60": {
+    "criteria": {
+      "breathing_60": "2025-08-03 02:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-03 02:03:57 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-02 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-03 02:48:16 +0000"
     },
     "done": true
   },
@@ -146,6 +158,12 @@
   "kimetsunoyaiba:demon_slayer_mark": {
     "criteria": {
       "demon_slayer_mark": "2025-08-03 02:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-08-03 02:48:16 +0000"
     },
     "done": true
   },
@@ -253,6 +271,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_40": {
+    "criteria": {
+      "breathing_40": "2025-08-03 02:41:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 03:40:10 +0000"
@@ -289,6 +313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-03 02:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-02 03:32:18 +0000"
@@ -322,6 +352,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-08-02 03:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 02:48:16 +0000"
     },
     "done": true
   },
@@ -541,6 +577,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-02 03:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-08-03 02:48:16 +0000"
     },
     "done": true
   },
@@ -826,6 +868,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-03 02:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-08-02 04:12:04 +0000"
@@ -910,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-08-03 02:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-02 03:32:18 +0000"
@@ -937,6 +991,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-02 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-08-03 02:48:16 +0000"
     },
     "done": true
   },
@@ -1060,6 +1120,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-08-02 03:32:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 02:48:16 +0000"
     },
     "done": true
   },

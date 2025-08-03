@@ -674,6 +674,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:bloody_battle_upper_1": {
+    "criteria": {
+      "bloody_battle_upper_1": "2025-08-03 02:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-02 04:09:30 +0000"
