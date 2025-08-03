@@ -2039,3 +2039,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [03Aug2025 02:08:23.460] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: kakarotto177 moved wrongly!
 [03Aug2025 02:10:33.329] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03Aug2025 02:10:33.332] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 02:11:19.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Teleported 3 entities to Tmarsi219]
+[03Aug2025 02:11:41.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 02:12:27.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 02:15:33.107] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 02:15:33.110] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 02:17:23.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has reached the goal [Kinoto]
+[03Aug2025 02:17:38.712] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30838, l='ServerLevel[world]', x=-367.02, y=73.14, z=8.30]
+[03Aug2025 02:17:38.713] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30838, l='ServerLevel[world]', x=-367.02, y=73.14, z=8.30]
+[03Aug2025 02:17:38.713] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30839, l='ServerLevel[world]', x=-367.02, y=73.14, z=8.30]
+[03Aug2025 02:17:38.714] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30839, l='ServerLevel[world]', x=-367.02, y=73.14, z=8.30]
+[03Aug2025 02:17:39.211] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30858, l='ServerLevel[world]', x=-367.34, y=73.43, z=7.88]
+[03Aug2025 02:17:39.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30858, l='ServerLevel[world]', x=-367.34, y=73.43, z=7.88]
+[03Aug2025 02:17:39.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30859, l='ServerLevel[world]', x=-367.34, y=73.43, z=7.88]
+[03Aug2025 02:17:39.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30859, l='ServerLevel[world]', x=-367.34, y=73.43, z=7.88]
+[03Aug2025 02:17:39.716] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30885, l='ServerLevel[world]', x=-367.86, y=73.43, z=8.23]
+[03Aug2025 02:17:39.717] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30885, l='ServerLevel[world]', x=-367.86, y=73.43, z=8.23]
+[03Aug2025 02:17:39.717] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30886, l='ServerLevel[world]', x=-367.86, y=73.43, z=8.23]
+[03Aug2025 02:17:39.717] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30886, l='ServerLevel[world]', x=-367.86, y=73.43, z=8.23]
+[03Aug2025 02:17:40.209] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30908, l='ServerLevel[world]', x=-367.93, y=72.88, z=8.30]
+[03Aug2025 02:17:40.210] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30908, l='ServerLevel[world]', x=-367.93, y=72.88, z=8.30]
+[03Aug2025 02:17:40.210] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30909, l='ServerLevel[world]', x=-367.93, y=72.88, z=8.30]
+[03Aug2025 02:17:40.210] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/30909, l='ServerLevel[world]', x=-367.93, y=72.88, z=8.30]
+[03Aug2025 02:18:04.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has reached the goal [Kinoe]
+[03Aug2025 02:18:16.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has reached the goal [Bloody Battle -Lower 6-]
+[03Aug2025 02:18:16.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has completed the challenge [Strongest]
+[03Aug2025 02:18:16.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has completed the challenge [Hashira]
+[03Aug2025 02:19:29.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has made the advancement [Receive 40 Damage]
+[03Aug2025 02:19:38.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Bloody Battle -Upper 4-]
+[03Aug2025 02:20:33.140] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 02:20:33.144] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

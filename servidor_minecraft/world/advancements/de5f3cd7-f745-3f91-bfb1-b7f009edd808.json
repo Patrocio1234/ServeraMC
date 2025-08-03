@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:kinoto": {
+    "criteria": {
+      "kinoto": "2025-08-03 02:17:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 03:40:10 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2025-08-02 03:52:42 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:strongest": {
+    "criteria": {
+      "strongest": "2025-08-03 02:18:16 +0000"
     },
     "done": true
   },
@@ -352,6 +364,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hashira": {
+    "criteria": {
+      "hashira": "2025-08-03 02:18:16 +0000"
     },
     "done": true
   },
@@ -571,6 +589,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:bloody_battle_lower_6": {
+    "criteria": {
+      "bloody_battle_lower_6": "2025-08-03 02:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-08-02 03:28:45 +0000"
@@ -598,6 +622,12 @@
   "kimetsunoyaiba:hinoe": {
     "criteria": {
       "hinoe": "2025-08-03 01:55:16 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_20_damage": {
+    "criteria": {
+      "receive_20_damage": "2025-08-03 02:19:29 +0000"
     },
     "done": true
   },
@@ -1055,6 +1085,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-08-02 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kinoe": {
+    "criteria": {
+      "kinoe": "2025-08-03 02:18:04 +0000"
     },
     "done": true
   },

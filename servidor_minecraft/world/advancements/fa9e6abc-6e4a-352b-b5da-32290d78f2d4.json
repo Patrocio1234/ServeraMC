@@ -649,6 +649,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:bloody_battle_upper_4": {
+    "criteria": {
+      "bloody_battle_upper_4": "2025-08-03 02:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2025-08-03 01:26:41 +0000"
@@ -1362,9 +1368,12 @@
       "minecraft:jungle_edge": "2025-08-03 01:41:48 +0000",
       "minecraft:forest": "2025-08-02 02:28:04 +0000",
       "minecraft:mountains": "2025-08-03 00:59:07 +0000",
+      "minecraft:warm_ocean": "2025-08-03 02:14:19 +0000",
       "minecraft:beach": "2025-08-03 01:15:22 +0000",
       "minecraft:river": "2025-08-02 02:36:08 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-03 02:14:09 +0000",
       "minecraft:wooded_hills": "2025-08-02 02:32:06 +0000",
+      "minecraft:stone_shore": "2025-08-03 02:14:44 +0000",
       "minecraft:swamp": "2025-08-02 03:33:14 +0000",
       "minecraft:plains": "2025-08-02 02:48:12 +0000"
     },
