@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 02:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-08-02 03:28:35 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-03 02:03:57 +0000"
     },
     "done": true
   },
@@ -306,6 +318,7 @@
       "porkchop": "2025-08-02 04:00:35 +0000",
       "tropical_fish": "2025-08-02 04:20:54 +0000",
       "apple": "2025-08-02 04:28:51 +0000",
+      "potato": "2025-08-03 02:07:38 +0000",
       "rabbit": "2025-08-02 04:19:40 +0000",
       "cookie": "2025-08-02 04:28:39 +0000",
       "carrot": "2025-08-03 01:56:12 +0000"
@@ -384,9 +397,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-03 02:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-03 02:03:57 +0000"
     },
     "done": true
   },
@@ -408,6 +433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-03 02:03:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-08-02 03:37:29 +0000"
@@ -417,6 +448,12 @@
   "kimetsunoyaiba:become_demon": {
     "criteria": {
       "become_demon": "2025-08-02 03:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-03 02:04:00 +0000"
     },
     "done": true
   },
@@ -730,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2025-08-03 02:03:57 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:mizunoto": {
     "criteria": {
       "mizunoto": "2025-08-02 03:28:55 +0000"
@@ -769,6 +812,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-08-02 04:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-03 02:03:57 +0000"
     },
     "done": true
   },
@@ -847,6 +896,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 02:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-03 02:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-08-02 03:32:19 +0000"
@@ -898,6 +959,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-02 03:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-03 02:03:57 +0000"
     },
     "done": true
   },
@@ -970,6 +1037,12 @@
   "kimetsunoyaiba:kanoe": {
     "criteria": {
       "kanoe": "2025-08-02 03:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-03 02:03:57 +0000"
     },
     "done": true
   },

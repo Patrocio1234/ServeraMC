@@ -2023,3 +2023,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [03Aug2025 02:00:33.363] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03Aug2025 02:00:33.366] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [03Aug2025 02:00:33.381] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 moved too quickly! 2.101204102877773,-1.2391093867315988,10.032290881495214
+[03Aug2025 02:01:14.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Elmegabyt12はZenitsuに殺害された.player
+[03Aug2025 02:01:14.210] [Server thread/DEBUG] [tombstone/]: A new grave of the player Elmegabyt12 was created at position [x:151, y:63, z:-332, dim:minecraft:overworld]
+[03Aug2025 02:01:14.227] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 02:01:37.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Teleported kakarotto177 to Tmarsi219]
+[03Aug2025 02:01:41.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 02:01:49.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 02:01:56.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 02:02:01.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 02:02:11.297] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Elmegabyt12 moved wrongly!
+[03Aug2025 02:05:33.246] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 02:05:33.249] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 02:06:00.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 02:06:37.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 02:08:23.460] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: kakarotto177 moved wrongly!
+[03Aug2025 02:10:33.329] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 02:10:33.332] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
