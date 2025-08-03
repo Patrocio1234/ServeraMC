@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 03:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2025-08-03 02:00:43 +0000"
@@ -295,7 +301,8 @@
       "apple": "2025-08-03 02:23:05 +0000",
       "bread": "2025-08-02 04:13:31 +0000",
       "rotten_flesh": "2025-08-02 03:05:20 +0000",
-      "salmon": "2025-08-02 02:37:14 +0000"
+      "salmon": "2025-08-02 02:37:14 +0000",
+      "carrot": "2025-08-03 03:57:14 +0000"
     },
     "done": false
   },
@@ -1520,6 +1527,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-08-02 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-03 03:57:11 +0000"
     },
     "done": true
   },

@@ -3035,3 +3035,27 @@ java.lang.NullPointerException: null
 [03Aug2025 03:52:18.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 died
 [03Aug2025 03:52:18.850] [Server thread/DEBUG] [tombstone/]: A new grave of the player Elmegabyt12 was created at position [x:339, y:67, z:-274, dim:minecraft:overworld]
 [03Aug2025 03:52:18.851] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 03:52:58.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 fell out of the world
+[03Aug2025 03:52:58.179] [Server thread/DEBUG] [tombstone/]: A new grave of the player Elmegabyt12 was created at position [x:321, y:67, z:-286, dim:minecraft:overworld]
+[03Aug2025 03:52:58.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Killed Elmegabyt12]
+[03Aug2025 03:52:58.179] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 03:53:13.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 fell out of the world
+[03Aug2025 03:53:13.752] [Server thread/DEBUG] [tombstone/]: A new grave of the player Elmegabyt12 was created at position [x:317, y:67, z:-274, dim:minecraft:overworld]
+[03Aug2025 03:53:13.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Killed Elmegabyt12]
+[03Aug2025 03:53:13.753] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 03:53:53.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 died
+[03Aug2025 03:53:53.610] [Server thread/DEBUG] [tombstone/]: A new grave of the player Elmegabyt12 was created at position [x:347, y:66, z:-300, dim:minecraft:overworld]
+[03Aug2025 03:53:53.611] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 03:53:58.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 03:54:26.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 03:55:01.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 03:55:32.761] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 03:55:32.764] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 03:55:46.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Elmegabyt12はkakarotto177に殺害された.player
+[03Aug2025 03:55:46.456] [Server thread/DEBUG] [tombstone/]: A new grave of the player Elmegabyt12 was created at position [x:321, y:67, z:-288, dim:minecraft:overworld]
+[03Aug2025 03:55:46.460] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 04:00:32.761] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 04:00:32.764] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 04:00:36.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.kakarotto177はTmarsi219に殺害された
+[03Aug2025 04:00:36.448] [Server thread/DEBUG] [tombstone/]: A new grave of the player kakarotto177 was created at position [x:350, y:67, z:-268, dim:minecraft:overworld]
+[03Aug2025 04:00:36.451] [Server thread/INFO] [tombstone/]: The player kakarotto177 has successfully been saved
