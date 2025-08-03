@@ -1841,3 +1841,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [03Aug2025 01:23:29.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Receive 240 Damage]
 [03Aug2025 01:25:32.951] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03Aug2025 01:25:32.954] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 01:30:32.876] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 01:30:32.880] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 01:35:32.800] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 01:35:32.803] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 01:37:07.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Demon Killer 40]
+[03Aug2025 01:37:51.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Receive 320 Damage]
+[03Aug2025 01:37:52.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has completed the challenge [[Skill] Demon Slayer Mark]
+[03Aug2025 01:37:59.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Tmarsi219はKokushiboに殺害された.player
+[03Aug2025 01:37:59.896] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:475, y:64, z:-127, dim:minecraft:overworld]
+[03Aug2025 01:37:59.914] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[03Aug2025 01:38:49.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Breathing 20]
+[03Aug2025 01:39:02.061] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/12605, l='ServerLevel[world]', x=403.71, y=64.43, z=-158.70]
+[03Aug2025 01:39:02.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/12606, l='ServerLevel[world]', x=403.71, y=64.43, z=-158.70]
+[03Aug2025 01:39:02.905] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/12640, l='ServerLevel[world]', x=402.54, y=64.59, z=-157.75]
+[03Aug2025 01:39:02.906] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/12641, l='ServerLevel[world]', x=402.54, y=64.59, z=-157.75]
+[03Aug2025 01:39:03.057] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/12647, l='ServerLevel[world]', x=402.64, y=64.43, z=-157.90]
+[03Aug2025 01:39:03.057] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/12648, l='ServerLevel[world]', x=402.64, y=64.43, z=-157.90]
+[03Aug2025 01:39:12.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Breathing 40]
