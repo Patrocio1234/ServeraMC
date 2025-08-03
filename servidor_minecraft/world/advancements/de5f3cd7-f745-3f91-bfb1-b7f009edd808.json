@@ -260,6 +260,7 @@
       "apple": "2025-08-02 04:28:51 +0000",
       "potato": "2025-08-03 02:07:38 +0000",
       "rabbit": "2025-08-02 04:19:40 +0000",
+      "golden_apple": "2025-08-03 03:34:31 +0000",
       "cookie": "2025-08-02 04:28:39 +0000",
       "carrot": "2025-08-03 01:56:12 +0000"
     },
@@ -1072,6 +1073,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_wind_hashira": {
+    "criteria": {
+      "the_wind_hashira": "2025-08-03 03:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-08-02 03:32:19 +0000"
@@ -1138,6 +1145,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-02 03:28:45 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:the_sound_hashira": {
+    "criteria": {
+      "the_sound_hashira": "2025-08-03 03:31:17 +0000"
     },
     "done": true
   },

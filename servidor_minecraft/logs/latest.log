@@ -1007,3 +1007,25 @@ java.lang.NullPointerException: null
 [03Aug2025 03:30:06.601] [Server thread/INFO] [tombstone/]: The player kakarotto177 has successfully been saved
 [03Aug2025 03:31:11.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has reached the goal [The Wind Hashira]
 [03Aug2025 03:31:17.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 has reached the goal [The Sound Hashira]
+[03Aug2025 03:35:01.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 died
+[03Aug2025 03:35:01.057] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 03:37:32.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.kakarotto177はKanrojiに殺害された
+[03Aug2025 03:37:32.849] [Server thread/INFO] [tombstone/]: The player kakarotto177 has successfully been saved
+[03Aug2025 03:38:04.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Hashira Training Arc -Love-]
+[03Aug2025 03:39:05.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 died because of kakarotto177
+[03Aug2025 03:39:28.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 03:39:43.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 03:41:23.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Tmarsi219はAkazaに殺害された.player
+[03Aug2025 03:41:30.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Teleported Tmarsi219 to kakarotto177]
+[03Aug2025 03:41:32.897] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85730, l='ServerLevel[world]', x=312.45, y=65.43, z=-322.58]
+[03Aug2025 03:41:32.898] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85730, l='ServerLevel[world]', x=312.45, y=65.43, z=-322.58]
+[03Aug2025 03:41:32.898] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85730, l='ServerLevel[world]', x=312.45, y=65.43, z=-322.58]
+[03Aug2025 03:41:36.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[03Aug2025 03:41:42.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 03:41:49.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85773, l='ServerLevel[world]', x=308.85, y=60.43, z=-348.10]
+[03Aug2025 03:41:49.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85773, l='ServerLevel[world]', x=308.85, y=60.43, z=-348.10]
+[03Aug2025 03:41:49.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85773, l='ServerLevel[world]', x=308.85, y=60.43, z=-348.10]
+[03Aug2025 03:41:53.299] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: kakarotto177 lost connection: Disconnected
+[03Aug2025 03:41:53.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 left the game
+[03Aug2025 03:41:55.245] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85776, l='ServerLevel[world]', x=305.70, y=60.43, z=-354.62]
+[03Aug2025 03:41:55.246] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85776, l='ServerLevel[world]', x=305.70, y=60.43, z=-354.62]

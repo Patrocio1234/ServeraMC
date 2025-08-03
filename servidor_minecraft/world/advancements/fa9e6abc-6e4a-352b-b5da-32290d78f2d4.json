@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hashira_training_arc_love": {
+    "criteria": {
+      "hashira_training_arc_love": "2025-08-03 03:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-08-03 02:33:44 +0000"
