@@ -1029,3 +1029,31 @@ java.lang.NullPointerException: null
 [03Aug2025 03:41:53.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 left the game
 [03Aug2025 03:41:55.245] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85776, l='ServerLevel[world]', x=305.70, y=60.43, z=-354.62]
 [03Aug2025 03:41:55.246] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowCustomEntity['entity.kimetsunoyaiba.entitybulletpistol'/85776, l='ServerLevel[world]', x=305.70, y=60.43, z=-354.62]
+[03Aug2025 03:42:47.196] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5400057d
+[03Aug2025 03:42:47.199] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: kakarotto177[/100.81.100.14:57826] logged in with entity id 85921 at (301.42620610675016, 61.9929827592512, -347.2326155032723)
+[03Aug2025 03:42:47.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 joined the game
+[03Aug2025 03:42:47.218] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f8a63a9
+[03Aug2025 03:42:47.220] [Server thread/INFO] [Waila/]: Syncing config to kakarotto177 (de5f3cd7-f745-3f91-bfb1-b7f009edd808)
+[03Aug2025 03:42:58.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Bloody Battle -Upper 3-]
+[03Aug2025 03:44:05.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 03:44:32.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 03:44:34.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 died
+[03Aug2025 03:44:34.903] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 03:45:16.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 03:45:17.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 03:45:25.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 03:45:44.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 03:46:32.197] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 moved too quickly! 4.061685671044529,2.0,13.522567508412692
+[03Aug2025 03:46:52.227] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 moved too quickly! -10.577646101106609,-0.7423037947896916,5.166687523297753
+[03Aug2025 03:47:06.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 03:47:08.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 died
+[03Aug2025 03:47:08.551] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 03:47:08.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03Aug2025 03:50:38.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 died
+[03Aug2025 03:51:10.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has reached the goal [Chain Death]
+[03Aug2025 03:51:10.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 died because of kakarotto177
+[03Aug2025 03:51:10.710] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[03Aug2025 03:51:44.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03Aug2025 03:52:04.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Gamerule kimetsuPvP is now set to: true]
+[03Aug2025 03:52:18.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 died
+[03Aug2025 03:52:18.851] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved

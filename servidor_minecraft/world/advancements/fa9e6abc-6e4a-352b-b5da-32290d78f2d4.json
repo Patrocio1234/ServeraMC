@@ -759,6 +759,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:bloody_battle_upper_3": {
+    "criteria": {
+      "bloody_battle_upper_3": "2025-08-03 03:42:58 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:bloody_battle_upper_4": {
     "criteria": {
       "bloody_battle_upper_4": "2025-08-03 02:19:38 +0000"
