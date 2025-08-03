@@ -415,3 +415,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [03Aug2025 01:00:26.599] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 [03Aug2025 01:00:26.599] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
 [03Aug2025 01:00:26.622] [Server thread/INFO] [tombstone/]: The player Tmarsi219 could not be saved
+[03Aug2025 01:13:38.406] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@258879f
+[03Aug2025 01:13:38.413] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Elmegabyt12[/100.65.128.61:53947] logged in with entity id 5149 at (152.83932367169731, 64.0, -336.16906915429144)
+[03Aug2025 01:13:38.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 joined the game
+[03Aug2025 01:13:38.432] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4fd7eac7
+[03Aug2025 01:13:38.436] [Server thread/INFO] [Waila/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[03Aug2025 01:15:52.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Receive 160 Damage]
+[03Aug2025 01:17:52.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Demon Killer 30]
