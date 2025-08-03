@@ -3059,3 +3059,19 @@ java.lang.NullPointerException: null
 [03Aug2025 04:00:36.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.kakarotto177はTmarsi219に殺害された
 [03Aug2025 04:00:36.448] [Server thread/DEBUG] [tombstone/]: A new grave of the player kakarotto177 was created at position [x:350, y:67, z:-268, dim:minecraft:overworld]
 [03Aug2025 04:00:36.451] [Server thread/INFO] [tombstone/]: The player kakarotto177 has successfully been saved
+[03Aug2025 04:03:59.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.kakarotto177はTmarsi219に殺害された
+[03Aug2025 04:03:59.946] [Server thread/DEBUG] [tombstone/]: A new grave of the player kakarotto177 was created at position [x:323, y:67, z:-276, dim:minecraft:overworld]
+[03Aug2025 04:03:59.947] [Server thread/INFO] [tombstone/]: The player kakarotto177 has successfully been saved
+[03Aug2025 04:05:32.770] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 04:05:32.772] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 04:05:37.192] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Elmegabyt12 lost connection: Disconnected
+[03Aug2025 04:05:37.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 left the game
+[03Aug2025 04:05:45.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.kakarotto177はTmarsi219に殺害された
+[03Aug2025 04:05:45.843] [Server thread/DEBUG] [tombstone/]: A new grave of the player kakarotto177 was created at position [x:351, y:67, z:-288, dim:minecraft:overworld]
+[03Aug2025 04:05:45.844] [Server thread/INFO] [tombstone/]: The player kakarotto177 has successfully been saved
+[03Aug2025 04:06:02.740] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 lost connection: Disconnected
+[03Aug2025 04:06:02.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 left the game
+[03Aug2025 04:06:03.841] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: kakarotto177 lost connection: Disconnected
+[03Aug2025 04:06:03.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 left the game
+[03Aug2025 04:10:32.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 04:10:32.621] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
