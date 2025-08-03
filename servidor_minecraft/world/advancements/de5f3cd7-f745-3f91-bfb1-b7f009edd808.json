@@ -11,9 +11,21 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:lower_rank_3": {
+    "criteria": {
+      "lower_rank_3": "2025-08-03 03:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-02 04:12:04 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_2": {
+    "criteria": {
+      "lower_rank_2": "2025-08-03 03:18:20 +0000"
     },
     "done": true
   },
@@ -128,6 +140,24 @@
   "kimetsunoyaiba:strongest": {
     "criteria": {
       "strongest": "2025-08-03 02:18:16 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_5": {
+    "criteria": {
+      "lower_rank_5": "2025-08-03 03:18:20 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_4": {
+    "criteria": {
+      "lower_rank_4": "2025-08-03 03:18:20 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_6": {
+    "criteria": {
+      "lower_rank_6": "2025-08-03 03:18:20 +0000"
     },
     "done": true
   },
@@ -736,6 +766,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_100": {
+    "criteria": {
+      "breathing_100": "2025-08-03 03:17:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 03:40:10 +0000"
@@ -1183,6 +1219,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_80": {
+    "criteria": {
+      "breathing_80": "2025-08-03 03:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-03 02:03:57 +0000"
@@ -1222,6 +1264,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-08-02 03:28:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:transparent_world": {
+    "criteria": {
+      "transparent_world": "2025-08-03 03:17:53 +0000"
     },
     "done": true
   },

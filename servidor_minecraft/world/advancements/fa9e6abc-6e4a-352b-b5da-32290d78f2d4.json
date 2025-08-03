@@ -1669,6 +1669,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:mission_no_2": {
+    "criteria": {
+      "mission_no_2": "2025-08-03 03:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2025-08-03 01:04:46 +0000"
@@ -1678,6 +1684,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-02 04:42:01 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mission_no_4": {
+    "criteria": {
+      "mission_no_4": "2025-08-03 03:12:42 +0000"
     },
     "done": true
   },
@@ -1708,6 +1720,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-08-02 02:36:20 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mission_no_1": {
+    "criteria": {
+      "mission_no_1": "2025-08-03 03:13:09 +0000"
     },
     "done": true
   },
