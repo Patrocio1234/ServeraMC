@@ -3075,3 +3075,7 @@ java.lang.NullPointerException: null
 [03Aug2025 04:06:03.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: kakarotto177 left the game
 [03Aug2025 04:10:32.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03Aug2025 04:10:32.621] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 04:15:32.561] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 04:15:32.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Aug2025 04:20:32.562] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Aug2025 04:20:32.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
