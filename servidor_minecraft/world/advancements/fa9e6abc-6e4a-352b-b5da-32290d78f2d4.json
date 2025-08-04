@@ -6237,6 +6237,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:mizunoe": {
+    "criteria": {
+      "mizunoe": "2025-08-04 02:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"

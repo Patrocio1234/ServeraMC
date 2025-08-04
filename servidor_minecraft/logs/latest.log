@@ -637,3 +637,25 @@ Reason: Banned by an operator.
 [02:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
 [02:34:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /deop Tmarsi219
 [02:34:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
+[02:34:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 has made the advancement [Acquire Hardware]
+[02:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[02:39:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[02:39:19] [Async Chat Thread - 2/INFO] [/]: <KNES05> 0
+[02:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported KNES05 to Tmarsi219
+[02:40:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Mizunoe]
+[02:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 was slain by Demon
+[02:41:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Tmarsi219 to KNES05
+[02:41:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 has made the advancement [Best Friends Forever]
+[02:41:51] [Worker-Main60/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[02:41:51] [Worker-Main60/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[02:41:51] [Worker-Main60/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[02:41:51] [Worker-Main60/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[02:42:28] [User Authenticator #19/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Elmegabyt12 is e9403368-8ca6-3ea5-b9bd-41aea49f875f
+[02:42:29] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 66 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
+[02:42:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Elmegabyt12[/100.65.128.61:65083] logged in with entity id 11,880 at (-1,688.272, 67, -194.14)
+[02:42:34] [Server thread/INFO] [Waila/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[02:44:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 has made the advancement [Demon Slayer Corps]
+[02:44:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 has reached the goal [Mizunoto]
+[02:44:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Kanoto]
+[02:44:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 was slain by Demon
+[02:44:23] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
