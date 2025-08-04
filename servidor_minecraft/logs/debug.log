@@ -21865,3 +21865,62 @@ Reason: Banned by an operator.
 [03:03:13] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03:03:13] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [03:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has made the advancement [Ashes 'n Bones]
+[03:06:28] [IO-Worker-89/DEBUG] [Smooth Boot/]: Initialized IO-Worker-90
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-20]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-20]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-19]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-19]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-18]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-2251 | 12 | -278)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-2251 | 12 | -278)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-18]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-17]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-2246 | 13 | -261)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-2246 | 13 | -261)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-2251 | 12 | -278)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-2251 | 12 | -278)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-17]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-16]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2246 | 13 | -256)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-2246 | 13 | -256)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-2251 | 13 | -251)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-2251 | 13 | -251)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-16]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-15]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-2251 | 13 | -251)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-2251 | 13 | -251)
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-15]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-14]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-14]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-21]
+[03:06:35] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-21]
+[03:06:36] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-140,-22]
+[03:06:36] [Worker-Main60/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-140,-22]
+[03:07:23] [IO-Worker-87/DEBUG] [Smooth Boot/]: Initialized IO-Worker-91
+[03:08:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamerule kimetsuPvP false
+[03:08:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Gamerule kimetsuPvP is now set to: false]
+[03:08:13] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03:08:13] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:08:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Tsuchinoto]
+[03:10:23] [IO-Worker-87/DEBUG] [Smooth Boot/]: Initialized IO-Worker-92
+[03:11:38] [IO-Worker-86/DEBUG] [Smooth Boot/]: Initialized IO-Worker-93
+[03:12:06] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Unknown structure piece id: minecraft:maple_witch_hut_piece
+[03:12:06] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Unknown structure piece id: minecraft:maple_witch_hut_piece
+[03:12:51] [IO-Worker-86/DEBUG] [Smooth Boot/]: Initialized IO-Worker-94
+[03:13:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode adventure
+[03:13:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[03:13:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[03:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03:13:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /time set night
+[03:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set the time to 13000]
+[03:13:13] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03:13:13] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03:13:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[03:13:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03:14:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[03:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03:14:42] [IO-Worker-92/DEBUG] [Smooth Boot/]: Initialized IO-Worker-95
+[03:14:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[03:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Demon Killer 10]
+[03:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Tsuchinoe]

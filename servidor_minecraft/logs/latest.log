@@ -716,3 +716,22 @@ Reason: Banned by an operator.
 [03:02:10] [Worker-Main60/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2095, y=32, z=-393} Block{minecraft:spawner}
 [03:02:10] [Worker-Main60/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-2095, 32, -393)
 [03:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has made the advancement [Ashes 'n Bones]
+[03:08:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamerule kimetsuPvP false
+[03:08:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Gamerule kimetsuPvP is now set to: false]
+[03:08:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Tsuchinoto]
+[03:12:06] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Unknown structure piece id: minecraft:maple_witch_hut_piece
+[03:12:06] [Server thread/ERROR] [net.minecraft.world.gen.feature.structure.Structure/]: Unknown structure piece id: minecraft:maple_witch_hut_piece
+[03:13:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode adventure
+[03:13:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[03:13:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[03:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03:13:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /time set night
+[03:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set the time to 13000]
+[03:13:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[03:13:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03:14:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[03:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03:14:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[03:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Demon Killer 10]
+[03:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Tsuchinoe]
