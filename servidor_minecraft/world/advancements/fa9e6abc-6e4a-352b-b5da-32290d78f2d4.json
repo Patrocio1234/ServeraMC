@@ -2327,6 +2327,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hinoe": {
+    "criteria": {
+      "hinoe": "2025-08-04 03:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -3104,6 +3110,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:tsuchinoe": {
+    "criteria": {
+      "tsuchinoe": "2025-08-04 03:15:03 +0000"
     },
     "done": true
   },
@@ -4981,6 +4993,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:demon_kill_count_20": {
+    "criteria": {
+      "demon_kill_count_20": "2025-08-04 03:18:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -5748,6 +5766,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-08-04 03:19:14 +0000",
       "environmental:venison": "2025-08-04 02:50:22 +0000",
       "bread": "2025-08-03 22:55:54 +0000"
     },
@@ -5798,6 +5817,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_kill_count_10": {
+    "criteria": {
+      "demon_kill_count_10": "2025-08-04 03:14:53 +0000"
     },
     "done": true
   },
@@ -6113,6 +6138,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hinoto": {
+    "criteria": {
+      "hinoto": "2025-08-04 03:17:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-08-04 02:58:16 +0000"
@@ -6404,6 +6435,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kinoto": {
+    "criteria": {
+      "kinoto": "2025-08-04 03:21:40 +0000"
     },
     "done": true
   },

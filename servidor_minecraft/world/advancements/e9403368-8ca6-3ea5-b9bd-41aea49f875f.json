@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-08-04 03:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-08-03 21:42:13 +0000"
@@ -3104,6 +3110,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_the_recipe": "2025-08-03 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
+    "criteria": {
+      "has_item": "2025-08-04 03:21:46 +0000"
     },
     "done": true
   },
@@ -6740,6 +6752,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_the_recipe": "2025-08-03 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-08-04 03:22:00 +0000"
     },
     "done": true
   },
