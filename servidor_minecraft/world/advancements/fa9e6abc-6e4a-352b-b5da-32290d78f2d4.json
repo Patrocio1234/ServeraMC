@@ -5050,7 +5050,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2025-08-03 23:43:50 +0000",
+      "autumnity:maple_forest_hills": "2025-08-04 02:23:59 +0000",
+      "minecraft:dark_forest": "2025-08-04 02:26:38 +0000",
       "minecraft:river": "2025-08-03 22:55:57 +0000",
+      "autumnity:maple_forest": "2025-08-04 02:23:49 +0000",
+      "autumnity:orange_spotted_dark_forest": "2025-08-04 02:24:42 +0000",
       "minecraft:forest": "2025-08-03 22:40:53 +0000",
       "minecraft:wooded_hills": "2025-08-04 02:22:22 +0000",
       "minecraft:plains": "2025-08-03 20:03:23 +0000"
@@ -5258,6 +5262,12 @@
   "minecraft:recipes/travelersbackpack/spider_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-08-04 02:25:25 +0000"
     },
     "done": true
   },

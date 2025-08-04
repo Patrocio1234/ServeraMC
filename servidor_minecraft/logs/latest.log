@@ -600,3 +600,40 @@ Reason: Banned by an operator.
 [02:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 left the game
 [02:22:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 was slain by Demon
 [02:22:43] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[02:27:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Tmarsi219 a server operator
+[02:27:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode spectator
+[02:27:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02:27:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[02:27:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02:28:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[02:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02:29:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[02:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02:29:17] [User Authenticator #18/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KNES05 is 0cb7ab45-dd8f-3695-9879-92d37e088337
+[02:29:18] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 66 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
+[02:29:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KNES05[/100.88.101.6:65275] logged in with entity id 8,503 at (-213.622, 17, -378.604)
+[02:29:23] [Server thread/INFO] [Waila/]: Syncing config to KNES05 (0cb7ab45-dd8f-3695-9879-92d37e088337)
+[02:32:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[02:32:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02:32:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[02:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02:33:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[02:33:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02:33:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[02:33:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02:33:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[02:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02:33:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[02:33:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02:33:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[02:33:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02:33:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[02:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02:33:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[02:33:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02:33:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[02:33:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02:33:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[02:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02:34:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /deop Tmarsi219
+[02:34:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
