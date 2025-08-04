@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -560,6 +566,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/big_gray_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
     },
     "done": true
   },
@@ -1163,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -1733,6 +1751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -1742,6 +1766,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/big_brown_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
     },
     "done": true
   },
@@ -1802,6 +1832,12 @@
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
     },
     "done": true
   },
@@ -2012,6 +2048,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
     },
     "done": true
   },
@@ -2408,6 +2450,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
     },
     "done": true
   },
@@ -3392,6 +3440,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
     },
     "done": true
   },
@@ -4561,6 +4615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -4972,6 +5032,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
     },
     "done": true
   },
@@ -5782,6 +5848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -6468,6 +6540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -6516,6 +6594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -6561,6 +6645,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-04 17:00:09 +0000"
     },
     "done": true
   },

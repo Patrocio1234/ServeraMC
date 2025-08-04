@@ -375,3 +375,6 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16:52:35] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9403368-8ca6-3ea5-b9bd-41aea49f875f
 [16:52:35] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f) successfully connected to voice chat
 [16:56:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has reached the goal [Kanoto]
+[17:01:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 lost connection: Disconnected
+[17:01:52] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tmarsi219
+[17:01:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 left the game

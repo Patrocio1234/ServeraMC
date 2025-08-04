@@ -17757,3 +17757,42 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [16:57:43] [IO-Worker-31/DEBUG] [Smooth Boot/]: Initialized IO-Worker-37
 [17:00:59] [IO-Worker-31/DEBUG] [Smooth Boot/]: Initialized IO-Worker-38
 [17:01:02] [IO-Worker-31/DEBUG] [Smooth Boot/]: Initialized IO-Worker-39
+[17:01:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 lost connection: Disconnected
+[17:01:52] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Tmarsi219
+[17:01:52] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tmarsi219
+[17:01:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 left the game
+[17:02:04] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:02:04] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:03:03] [IO-Worker-38/DEBUG] [Smooth Boot/]: Initialized IO-Worker-40
+[17:03:03] [IO-Worker-31/DEBUG] [Smooth Boot/]: Initialized IO-Worker-41
+[17:03:03] [IO-Worker-40/DEBUG] [Smooth Boot/]: Initialized IO-Worker-42
+[17:04:46] [Worker-Main3/DEBUG] [Smooth Boot/]: Initialized Worker-Main43
+[17:05:41] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=false, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:05:54] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=true, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:05:55] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=false, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:06] [IO-Worker-42/DEBUG] [Smooth Boot/]: Initialized IO-Worker-44
+[17:06:27] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=true, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:27] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=false, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:27] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=true, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:27] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=false, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:27] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=true, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:27] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=false, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:29] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=true, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:30] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=false, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:31] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=true, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:32] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=false, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:32] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=true, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:36] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=false, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:06:41] [IO-Worker-38/DEBUG] [Smooth Boot/]: Initialized IO-Worker-45
+[17:07:04] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:07:04] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:07:48] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=true, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:07:49] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Elmegabyt12: {disabled=false, disconnected=false, uuid=e9403368-8ca6-3ea5-b9bd-41aea49f875f, name=Elmegabyt12, group=null}
+[17:07:55] [Worker-Main3/DEBUG] [Smooth Boot/]: Initialized Worker-Main46
+[17:08:03] [IO-Worker-42/DEBUG] [Smooth Boot/]: Initialized IO-Worker-47
+[17:08:03] [IO-Worker-45/DEBUG] [Smooth Boot/]: Initialized IO-Worker-48
+[17:09:56] [IO-Worker-42/DEBUG] [Smooth Boot/]: Initialized IO-Worker-49
+[17:11:00] [Server thread/DEBUG] [Smooth Boot/]: Initialized Worker-Main50
+[17:11:05] [IO-Worker-49/DEBUG] [Smooth Boot/]: Initialized IO-Worker-51
+[17:12:04] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:12:04] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
