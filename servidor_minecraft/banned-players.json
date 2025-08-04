@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "0cb7ab45-dd8f-3695-9879-92d37e088337",
+    "name": "KNES05",
+    "created": "2025-08-04 00:03:18 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
