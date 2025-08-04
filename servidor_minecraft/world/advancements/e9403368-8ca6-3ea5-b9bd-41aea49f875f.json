@@ -4948,6 +4948,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 17:37:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_the_recipe": "2025-08-03 21:42:13 +0000"
@@ -5897,6 +5903,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 17:36:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-03 21:42:13 +0000"
@@ -6287,6 +6299,12 @@
   "minecraft:recipes/travelersbackpack/pig_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-08-03 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-04 17:37:13 +0000"
     },
     "done": true
   },

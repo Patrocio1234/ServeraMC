@@ -1,229 +1,229 @@
-[16:40:56] [main/INFO] [STDOUT/]: Update in check...
-[16:40:56] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
-[16:40:57] [main/INFO] [STDOUT/]: [!] Can't connect to the ci to check updates or unable to download the update.
-[16:40:57] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 8c7caaf7, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
-[16:40:57] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 11.0.28 by Ubuntu
-[16:40:58] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[16:40:58] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/ServeraMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[16:40:59] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
-[16:41:01] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[16:41:02] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: start
-[16:41:03] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: find block call
-[16:41:06] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: start
-[16:41:06] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: find block call
-[16:41:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `walljump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `doublejump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `speedboost`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:11] [modloading-worker-2/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
-[16:41:11] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[16:41:11] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[16:41:11] [modloading-worker-2/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
-[16:41:12] [modloading-worker-1/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
-[16:41:13] [modloading-worker-1/INFO] [expandability/]: ExpandAbility here, who dis?
-[16:41:20] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:20] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:20] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[16:41:21] [main/INFO] [quark/]: Loading Module Chain Linkage
-[16:41:21] [main/INFO] [quark/]: Loading Module Chains Connect Blocks
-[16:41:21] [main/INFO] [quark/]: Loading Module Chute
-[16:41:21] [main/INFO] [quark/]: Loading Module Color Slime
-[16:41:21] [main/INFO] [quark/]: Loading Module Dispensers Place Blocks
-[16:41:21] [main/INFO] [quark/]: Loading Module Ender Watcher
-[16:41:21] [main/INFO] [quark/]: Loading Module Endermites Form Shulkers
-[16:41:21] [main/INFO] [quark/]: Loading Module Feeding Trough
-[16:41:21] [main/INFO] [quark/]: Loading Module Gravisand
-[16:41:21] [main/INFO] [quark/]: Loading Module Iron Rod
-[16:41:21] [main/INFO] [quark/]: Loading Module Jukebox Automation
-[16:41:21] [main/INFO] [quark/]: Loading Module Metal Buttons
-[16:41:21] [main/INFO] [quark/]: Loading Module Obsidian Plate
-[16:41:21] [main/INFO] [quark/]: Loading Module Pistons Move Tile Entities
-[16:41:21] [main/INFO] [quark/]: Loading Module Redstone Circuit
-[16:41:21] [main/INFO] [quark/]: Loading Module Weather Sensor
-[16:41:21] [main/INFO] [quark/]: Loading Module Bamboo Mat
-[16:41:21] [main/INFO] [quark/]: Loading Module Burn Vines
-[16:41:21] [main/INFO] [quark/]: Loading Module Celebratory Lamps
-[16:41:21] [main/INFO] [quark/]: Loading Module Cobblestone Bricks
-[16:41:21] [main/INFO] [quark/]: Loading Module Compressed Blocks
-[16:41:21] [main/INFO] [quark/]: Loading Module Duskbound Blocks
-[16:41:21] [main/INFO] [quark/]: Loading Module Framed Glass
-[16:41:21] [main/INFO] [quark/]: Loading Module Gold Bars
-[16:41:21] [main/INFO] [quark/]: Loading Module Grate
-[16:41:21] [main/INFO] [quark/]: Loading Module Hedges
-[16:41:21] [main/INFO] [quark/]: Loading Module Iron Plates
-[16:41:21] [main/INFO] [quark/]: Loading Module Item Frames
-[16:41:21] [main/INFO] [quark/]: Loading Module Leaf Carpet
-[16:41:21] [main/INFO] [quark/]: Loading Module Lit Lamp
-[16:41:21] [main/INFO] [quark/]: Loading Module Midori
-[16:41:21] [main/INFO] [quark/]: Loading Module More Brick Types
-[16:41:21] [main/INFO] [quark/]: Loading Module More Potted Plants
-[16:41:21] [main/INFO] [quark/]: Loading Module More Stone Variants
-[16:41:21] [main/INFO] [quark/]: Loading Module Nether Brick Fence Gate
-[16:41:21] [main/INFO] [quark/]: Loading Module Paper Decor
-[16:41:21] [main/INFO] [quark/]: Loading Module Quilted Wool
-[16:41:21] [main/INFO] [quark/]: Loading Module Rope
-[16:41:21] [main/INFO] [quark/]: Loading Module Shallow Dirt
-[16:41:21] [main/INFO] [quark/]: Loading Module Shingles
-[16:41:21] [main/INFO] [quark/]: Loading Module Soul Sandstone
-[16:41:21] [main/INFO] [quark/]: Loading Module Stained Planks
-[16:41:21] [main/INFO] [quark/]: Loading Module Stools
-[16:41:21] [main/INFO] [quark/]: Loading Module Sturdy Stone
-[16:41:21] [main/INFO] [quark/]: Loading Module Tallow And Candles
-[16:41:21] [main/INFO] [quark/]: Loading Module Thatch
-[16:41:21] [main/INFO] [quark/]: Loading Module Tie Leads To Fences
-[16:41:21] [main/INFO] [quark/]: Loading Module Turf
-[16:41:21] [main/INFO] [quark/]: Loading Module Variant Bookshelves
-[16:41:21] [main/INFO] [quark/]: Loading Module Variant Chests
-[16:41:21] [main/INFO] [quark/]: Loading Module Variant Ladders
-[16:41:21] [main/INFO] [quark/]: Loading Module Vertical Planks
-[16:41:21] [main/INFO] [quark/]: Loading Module Vertical Slabs
-[16:41:21] [main/INFO] [quark/]: Loading Module Wooden Posts
-[16:41:21] [main/INFO] [quark/]: Loading Module Chests In Boats
-[16:41:21] [main/INFO] [quark/]: Loading Module Easy Transfering
-[16:41:21] [main/INFO] [quark/]: Loading Module Hotbar Changer
-[16:41:21] [main/INFO] [quark/]: Loading Module Inventory Sorting
-[16:41:21] [main/INFO] [quark/]: Loading Module Item Sharing
-[16:41:21] [main/INFO] [quark/]: Loading Module Right Click Armor
-[16:41:21] [main/INFO] [quark/]: Loading Module Shulker Box Right Click
-[16:41:21] [main/INFO] [quark/]: Loading Module Endermosh Music Disc
-[16:41:21] [main/INFO] [quark/]: Loading Module Abacus
-[16:41:21] [main/INFO] [quark/]: Loading Module Ambient Discs
-[16:41:21] [main/INFO] [quark/]: Loading Module Ancient Tomes
-[16:41:21] [main/INFO] [quark/]: Loading Module Bottled Cloud
-[16:41:21] [main/INFO] [quark/]: Loading Module Camera
-[16:41:21] [main/INFO] [quark/]: Loading Module Color Runes
-[16:41:21] [main/INFO] [quark/]: Loading Module Pathfinder Maps
-[16:41:21] [main/INFO] [quark/]: Loading Module Pickarang
-[16:41:21] [main/INFO] [quark/]: Loading Module Seed Pouch
-[16:41:21] [main/INFO] [quark/]: Loading Module Slime In A Bucket
-[16:41:21] [main/INFO] [quark/]: Loading Module Trowel
-[16:41:21] [main/INFO] [quark/]: Loading Module Skull Pikes
-[16:41:21] [main/INFO] [quark/]: Loading Module Armed Armor Stands
-[16:41:21] [main/INFO] [quark/]: Loading Module Automatic Recipe Unlock
-[16:41:21] [main/INFO] [quark/]: Loading Module Axe Leaf Harvesting
-[16:41:21] [main/INFO] [quark/]: Loading Module Better Elytra Rocket
-[16:41:21] [main/INFO] [quark/]: Loading Module Campfires Boost Elytra
-[16:41:21] [main/INFO] [quark/]: Loading Module Compasses Work Everywhere
-[16:41:21] [main/INFO] [quark/]: Loading Module Dirt To Path
-[16:41:21] [main/INFO] [quark/]: Loading Module Double Door Opening
-[16:41:21] [main/INFO] [quark/]: Loading Module Dragon Scales
-[16:41:21] [main/INFO] [quark/]: Loading Module Emotes
-[16:41:21] [main/INFO] [quark/]: Loading Module Enhanced Ladders
-[16:41:21] [main/INFO] [quark/]: Loading Module Glass Shard
-[16:41:21] [main/INFO] [quark/]: Loading Module Hoe Harvesting
-[16:41:21] [main/INFO] [quark/]: Loading Module Improved Sleeping
-[16:41:21] [main/INFO] [quark/]: Loading Module Infinity Bucket
-[16:41:21] [main/INFO] [quark/]: Loading Module Lava Bucket As Trash
-[16:41:21] [main/INFO] [quark/]: Loading Module Lock Rotation
-[16:41:21] [main/INFO] [quark/]: Loading Module More Banner Layers
-[16:41:21] [main/INFO] [quark/]: Loading Module Note Block Mob Sounds
-[16:41:21] [main/INFO] [quark/]: Loading Module Pat The Dogs
-[16:41:21] [main/INFO] [quark/]: Loading Module Poison Potato Usage
-[16:41:21] [main/INFO] [quark/]: Loading Module Reacharound Placing
-[16:41:21] [main/INFO] [quark/]: Loading Module Replace Scaffolding
-[16:41:21] [main/INFO] [quark/]: Loading Module Sign Editing
-[16:41:21] [main/INFO] [quark/]: Loading Module Simple Harvest
-[16:41:21] [main/INFO] [quark/]: Loading Module Snow Golem Player Heads
-[16:41:21] [main/INFO] [quark/]: Loading Module Springy Slime
-[16:41:21] [main/INFO] [quark/]: Loading Module Utility Recipes
-[16:41:21] [main/INFO] [quark/]: Loading Module Villagers Follow Emeralds
-[16:41:21] [main/INFO] [quark/]: Loading Module Big Dungeon
-[16:41:21] [main/INFO] [quark/]: Loading Module Big Stone Clusters
-[16:41:21] [main/INFO] [quark/]: Loading Module Biotite
-[16:41:21] [main/INFO] [quark/]: Loading Module Blossom Trees
-[16:41:21] [main/INFO] [quark/]: Loading Module Cave Roots
-[16:41:21] [main/INFO] [quark/]: Loading Module Chorus Vegetation
-[16:41:21] [main/INFO] [quark/]: Loading Module Crevices
-[16:41:21] [main/INFO] [quark/]: Loading Module Deepslate
-[16:41:21] [main/INFO] [quark/]: Loading Module Fairy Rings
-[16:41:21] [main/INFO] [quark/]: Loading Module Mega Caves
-[16:41:21] [main/INFO] [quark/]: Loading Module Monster Box
-[16:41:21] [main/INFO] [quark/]: Loading Module Nether Obsidian Spikes
-[16:41:21] [main/INFO] [quark/]: Loading Module New Stone Types
-[16:41:21] [main/INFO] [quark/]: Loading Module Realistic World Gen
-[16:41:21] [main/INFO] [quark/]: Loading Module Speleothems
-[16:41:21] [main/INFO] [quark/]: Loading Module Spiral Spires
-[16:41:21] [main/INFO] [quark/]: Loading Module Underground Clay
-[16:41:21] [main/INFO] [quark/]: Loading Module Brimstone Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Cave Crystal Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Elder Prismarine Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Glowshroom Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Lush Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Overgrown Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Permafrost Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Sandstone Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Slime Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Spider Nest Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Crabs
-[16:41:21] [main/INFO] [quark/]: Loading Module Forgotten
-[16:41:21] [main/INFO] [quark/]: Loading Module Foxhound
-[16:41:21] [main/INFO] [quark/]: Loading Module Frogs
-[16:41:21] [main/INFO] [quark/]: Loading Module Stonelings
-[16:41:21] [main/INFO] [quark/]: Loading Module Toretoise
-[16:41:21] [main/INFO] [quark/]: Loading Module Wraith
-[16:41:21] [main/INFO] [quark/]: Loading Module Auto Walk Keybind
-[16:41:21] [main/INFO] [quark/]: Loading Module Back Button Keybind
-[16:41:21] [main/INFO] [quark/]: Loading Module Chest Searching
-[16:41:21] [main/INFO] [quark/]: Loading Module Greener Grass
-[16:41:21] [main/INFO] [quark/]: Loading Module Improved Mount Hud
-[16:41:21] [main/INFO] [quark/]: Loading Module Improved Tooltips
-[16:41:21] [main/INFO] [quark/]: Loading Module Usage Ticker
-[16:41:21] [main/INFO] [quark/]: Loading Module Variant Animal Textures
-[16:41:21] [main/INFO] [quark/]: Loading Module Backpack
-[16:41:21] [main/INFO] [quark/]: Loading Module Crate
-[16:41:21] [main/INFO] [quark/]: Loading Module Magnets
-[16:41:21] [main/INFO] [quark/]: Loading Module Matrix Enchanting
-[16:41:21] [main/INFO] [quark/]: Loading Module Pipes
-[16:41:21] [main/INFO] [quark/]: Loading Module Totem Of Holding
-[16:41:21] [main/INFO] [quark/]: Loading Module Adjustable Chat
-[16:41:21] [main/INFO] [quark/]: Loading Module Custom Underground Biome
-[16:41:21] [main/INFO] [quark/]: Loading Module Game Nerfs
-[16:41:21] [main/INFO] [quark/]: Loading Module Microcrafting Helper
-[16:41:21] [main/INFO] [quark/]: Loading Module Narrator Readout
-[16:41:21] [main/INFO] [quark/]: Loading Module Overlay Shader
-[16:41:21] [main/INFO] [quark/]: Loading Module Pallet
-[16:41:21] [main/INFO] [quark/]: Loading Module Shiba
-[16:41:21] [modloading-worker-2/INFO] [Dungeon Crawl/]: Common Setup
-[16:41:21] [modloading-worker-3/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Overspawning lammergeiers...
-[16:41:21] [modloading-worker-2/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
-[16:41:21] [modloading-worker-2/INFO] [Dungeon Crawl/]: minecraft:overworld
-[16:41:21] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[16:41:21] [modloading-worker-2/INFO] [com.betterfpsdist.BetterfpsdistMod/]: betterfpsdist mod initialized
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:shiba, use EntityAttributeCreationEvent instead.
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:frog, use EntityAttributeCreationEvent instead.
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:foxhound, use EntityAttributeCreationEvent instead.
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:leash_knot_fake, use EntityAttributeCreationEvent instead.
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wraith, use EntityAttributeCreationEvent instead.
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:crab, use EntityAttributeCreationEvent instead.
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:stoneling, use EntityAttributeCreationEvent instead.
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:forgotten, use EntityAttributeCreationEvent instead.
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wrapped, use EntityAttributeCreationEvent instead.
-[16:41:21] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Loading plugins
-[16:41:21] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[16:41:21] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Initializing plugins
-[16:41:21] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[16:41:21] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:toretoise, use EntityAttributeCreationEvent instead.
-[16:41:22] [modloading-worker-1/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
-[16:41:22] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
-[16:41:22] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
-[16:41:22] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
-[16:41:22] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
-[16:41:22] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[16:41:22] [modloading-worker-3/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[16:41:22] [modloading-worker-2/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[16:41:22] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[16:41:22] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[16:41:22] [modloading-worker-2/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
-[16:41:22] [modloading-worker-3/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
-[16:41:22] [modloading-worker-3/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
-[16:41:22] [modloading-worker-3/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
-[16:41:22] [modloading-worker-3/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[16:41:22] [modloading-worker-3/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[16:41:22] [modloading-worker-2/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[16:41:22] [modloading-worker-2/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[18:51:56] [main/INFO] [STDOUT/]: Update in check...
+[18:51:56] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[18:51:56] [main/INFO] [STDOUT/]: [!] Can't connect to the ci to check updates or unable to download the update.
+[18:51:56] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 8c7caaf7, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[18:51:56] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 11.0.28 by Ubuntu
+[18:51:57] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[18:51:57] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/ServeraMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[18:51:58] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[18:52:00] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[18:52:02] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: start
+[18:52:02] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: find block call
+[18:52:05] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: start
+[18:52:05] [main/INFO] [net.minecraftforge.coremod.CoreMod.itemphysic/COREMODLOG]: find block call
+[18:52:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `walljump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `doublejump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:10] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `speedboost`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:11] [modloading-worker-1/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[18:52:11] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[18:52:11] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[18:52:11] [modloading-worker-1/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[18:52:12] [modloading-worker-2/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
+[18:52:12] [modloading-worker-3/INFO] [expandability/]: ExpandAbility here, who dis?
+[18:52:19] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:20] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:20] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:21] [main/INFO] [quark/]: Loading Module Chain Linkage
+[18:52:21] [main/INFO] [quark/]: Loading Module Chains Connect Blocks
+[18:52:21] [main/INFO] [quark/]: Loading Module Chute
+[18:52:21] [main/INFO] [quark/]: Loading Module Color Slime
+[18:52:21] [main/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[18:52:21] [main/INFO] [quark/]: Loading Module Ender Watcher
+[18:52:21] [main/INFO] [quark/]: Loading Module Endermites Form Shulkers
+[18:52:21] [main/INFO] [quark/]: Loading Module Feeding Trough
+[18:52:21] [main/INFO] [quark/]: Loading Module Gravisand
+[18:52:21] [main/INFO] [quark/]: Loading Module Iron Rod
+[18:52:21] [main/INFO] [quark/]: Loading Module Jukebox Automation
+[18:52:21] [main/INFO] [quark/]: Loading Module Metal Buttons
+[18:52:21] [main/INFO] [quark/]: Loading Module Obsidian Plate
+[18:52:21] [main/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[18:52:21] [main/INFO] [quark/]: Loading Module Redstone Circuit
+[18:52:21] [main/INFO] [quark/]: Loading Module Weather Sensor
+[18:52:21] [main/INFO] [quark/]: Loading Module Bamboo Mat
+[18:52:21] [main/INFO] [quark/]: Loading Module Burn Vines
+[18:52:21] [main/INFO] [quark/]: Loading Module Celebratory Lamps
+[18:52:21] [main/INFO] [quark/]: Loading Module Cobblestone Bricks
+[18:52:21] [main/INFO] [quark/]: Loading Module Compressed Blocks
+[18:52:21] [main/INFO] [quark/]: Loading Module Duskbound Blocks
+[18:52:21] [main/INFO] [quark/]: Loading Module Framed Glass
+[18:52:21] [main/INFO] [quark/]: Loading Module Gold Bars
+[18:52:21] [main/INFO] [quark/]: Loading Module Grate
+[18:52:21] [main/INFO] [quark/]: Loading Module Hedges
+[18:52:21] [main/INFO] [quark/]: Loading Module Iron Plates
+[18:52:21] [main/INFO] [quark/]: Loading Module Item Frames
+[18:52:21] [main/INFO] [quark/]: Loading Module Leaf Carpet
+[18:52:21] [main/INFO] [quark/]: Loading Module Lit Lamp
+[18:52:21] [main/INFO] [quark/]: Loading Module Midori
+[18:52:21] [main/INFO] [quark/]: Loading Module More Brick Types
+[18:52:21] [main/INFO] [quark/]: Loading Module More Potted Plants
+[18:52:21] [main/INFO] [quark/]: Loading Module More Stone Variants
+[18:52:21] [main/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[18:52:21] [main/INFO] [quark/]: Loading Module Paper Decor
+[18:52:21] [main/INFO] [quark/]: Loading Module Quilted Wool
+[18:52:21] [main/INFO] [quark/]: Loading Module Rope
+[18:52:21] [main/INFO] [quark/]: Loading Module Shallow Dirt
+[18:52:21] [main/INFO] [quark/]: Loading Module Shingles
+[18:52:21] [main/INFO] [quark/]: Loading Module Soul Sandstone
+[18:52:21] [main/INFO] [quark/]: Loading Module Stained Planks
+[18:52:21] [main/INFO] [quark/]: Loading Module Stools
+[18:52:21] [main/INFO] [quark/]: Loading Module Sturdy Stone
+[18:52:21] [main/INFO] [quark/]: Loading Module Tallow And Candles
+[18:52:21] [main/INFO] [quark/]: Loading Module Thatch
+[18:52:21] [main/INFO] [quark/]: Loading Module Tie Leads To Fences
+[18:52:21] [main/INFO] [quark/]: Loading Module Turf
+[18:52:21] [main/INFO] [quark/]: Loading Module Variant Bookshelves
+[18:52:21] [main/INFO] [quark/]: Loading Module Variant Chests
+[18:52:21] [main/INFO] [quark/]: Loading Module Variant Ladders
+[18:52:21] [main/INFO] [quark/]: Loading Module Vertical Planks
+[18:52:21] [main/INFO] [quark/]: Loading Module Vertical Slabs
+[18:52:21] [main/INFO] [quark/]: Loading Module Wooden Posts
+[18:52:21] [main/INFO] [quark/]: Loading Module Chests In Boats
+[18:52:21] [main/INFO] [quark/]: Loading Module Easy Transfering
+[18:52:21] [main/INFO] [quark/]: Loading Module Hotbar Changer
+[18:52:21] [main/INFO] [quark/]: Loading Module Inventory Sorting
+[18:52:21] [main/INFO] [quark/]: Loading Module Item Sharing
+[18:52:21] [main/INFO] [quark/]: Loading Module Right Click Armor
+[18:52:21] [main/INFO] [quark/]: Loading Module Shulker Box Right Click
+[18:52:21] [main/INFO] [quark/]: Loading Module Endermosh Music Disc
+[18:52:21] [main/INFO] [quark/]: Loading Module Abacus
+[18:52:21] [main/INFO] [quark/]: Loading Module Ambient Discs
+[18:52:21] [main/INFO] [quark/]: Loading Module Ancient Tomes
+[18:52:21] [main/INFO] [quark/]: Loading Module Bottled Cloud
+[18:52:21] [main/INFO] [quark/]: Loading Module Camera
+[18:52:21] [main/INFO] [quark/]: Loading Module Color Runes
+[18:52:21] [main/INFO] [quark/]: Loading Module Pathfinder Maps
+[18:52:21] [main/INFO] [quark/]: Loading Module Pickarang
+[18:52:21] [main/INFO] [quark/]: Loading Module Seed Pouch
+[18:52:21] [main/INFO] [quark/]: Loading Module Slime In A Bucket
+[18:52:21] [main/INFO] [quark/]: Loading Module Trowel
+[18:52:21] [main/INFO] [quark/]: Loading Module Skull Pikes
+[18:52:21] [main/INFO] [quark/]: Loading Module Armed Armor Stands
+[18:52:21] [main/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[18:52:21] [main/INFO] [quark/]: Loading Module Axe Leaf Harvesting
+[18:52:21] [main/INFO] [quark/]: Loading Module Better Elytra Rocket
+[18:52:21] [main/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[18:52:21] [main/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[18:52:21] [main/INFO] [quark/]: Loading Module Dirt To Path
+[18:52:21] [main/INFO] [quark/]: Loading Module Double Door Opening
+[18:52:21] [main/INFO] [quark/]: Loading Module Dragon Scales
+[18:52:21] [main/INFO] [quark/]: Loading Module Emotes
+[18:52:21] [main/INFO] [quark/]: Loading Module Enhanced Ladders
+[18:52:21] [main/INFO] [quark/]: Loading Module Glass Shard
+[18:52:21] [main/INFO] [quark/]: Loading Module Hoe Harvesting
+[18:52:21] [main/INFO] [quark/]: Loading Module Improved Sleeping
+[18:52:21] [main/INFO] [quark/]: Loading Module Infinity Bucket
+[18:52:21] [main/INFO] [quark/]: Loading Module Lava Bucket As Trash
+[18:52:21] [main/INFO] [quark/]: Loading Module Lock Rotation
+[18:52:21] [main/INFO] [quark/]: Loading Module More Banner Layers
+[18:52:21] [main/INFO] [quark/]: Loading Module Note Block Mob Sounds
+[18:52:21] [main/INFO] [quark/]: Loading Module Pat The Dogs
+[18:52:21] [main/INFO] [quark/]: Loading Module Poison Potato Usage
+[18:52:21] [main/INFO] [quark/]: Loading Module Reacharound Placing
+[18:52:21] [main/INFO] [quark/]: Loading Module Replace Scaffolding
+[18:52:21] [main/INFO] [quark/]: Loading Module Sign Editing
+[18:52:21] [main/INFO] [quark/]: Loading Module Simple Harvest
+[18:52:21] [main/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[18:52:21] [main/INFO] [quark/]: Loading Module Springy Slime
+[18:52:21] [main/INFO] [quark/]: Loading Module Utility Recipes
+[18:52:21] [main/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[18:52:21] [main/INFO] [quark/]: Loading Module Big Dungeon
+[18:52:21] [main/INFO] [quark/]: Loading Module Big Stone Clusters
+[18:52:21] [main/INFO] [quark/]: Loading Module Biotite
+[18:52:21] [main/INFO] [quark/]: Loading Module Blossom Trees
+[18:52:21] [main/INFO] [quark/]: Loading Module Cave Roots
+[18:52:21] [main/INFO] [quark/]: Loading Module Chorus Vegetation
+[18:52:21] [main/INFO] [quark/]: Loading Module Crevices
+[18:52:21] [main/INFO] [quark/]: Loading Module Deepslate
+[18:52:21] [main/INFO] [quark/]: Loading Module Fairy Rings
+[18:52:21] [main/INFO] [quark/]: Loading Module Mega Caves
+[18:52:21] [main/INFO] [quark/]: Loading Module Monster Box
+[18:52:21] [main/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[18:52:21] [main/INFO] [quark/]: Loading Module New Stone Types
+[18:52:21] [main/INFO] [quark/]: Loading Module Realistic World Gen
+[18:52:21] [main/INFO] [quark/]: Loading Module Speleothems
+[18:52:21] [main/INFO] [quark/]: Loading Module Spiral Spires
+[18:52:21] [main/INFO] [quark/]: Loading Module Underground Clay
+[18:52:21] [main/INFO] [quark/]: Loading Module Brimstone Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Cave Crystal Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Elder Prismarine Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Glowshroom Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Lush Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Overgrown Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Permafrost Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Sandstone Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Slime Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Spider Nest Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Crabs
+[18:52:21] [main/INFO] [quark/]: Loading Module Forgotten
+[18:52:21] [main/INFO] [quark/]: Loading Module Foxhound
+[18:52:21] [main/INFO] [quark/]: Loading Module Frogs
+[18:52:21] [main/INFO] [quark/]: Loading Module Stonelings
+[18:52:21] [main/INFO] [quark/]: Loading Module Toretoise
+[18:52:21] [main/INFO] [quark/]: Loading Module Wraith
+[18:52:21] [main/INFO] [quark/]: Loading Module Auto Walk Keybind
+[18:52:21] [main/INFO] [quark/]: Loading Module Back Button Keybind
+[18:52:21] [main/INFO] [quark/]: Loading Module Chest Searching
+[18:52:21] [main/INFO] [quark/]: Loading Module Greener Grass
+[18:52:21] [main/INFO] [quark/]: Loading Module Improved Mount Hud
+[18:52:21] [main/INFO] [quark/]: Loading Module Improved Tooltips
+[18:52:21] [main/INFO] [quark/]: Loading Module Usage Ticker
+[18:52:21] [main/INFO] [quark/]: Loading Module Variant Animal Textures
+[18:52:21] [main/INFO] [quark/]: Loading Module Backpack
+[18:52:21] [main/INFO] [quark/]: Loading Module Crate
+[18:52:21] [main/INFO] [quark/]: Loading Module Magnets
+[18:52:21] [main/INFO] [quark/]: Loading Module Matrix Enchanting
+[18:52:21] [main/INFO] [quark/]: Loading Module Pipes
+[18:52:21] [main/INFO] [quark/]: Loading Module Totem Of Holding
+[18:52:21] [main/INFO] [quark/]: Loading Module Adjustable Chat
+[18:52:21] [main/INFO] [quark/]: Loading Module Custom Underground Biome
+[18:52:21] [main/INFO] [quark/]: Loading Module Game Nerfs
+[18:52:21] [main/INFO] [quark/]: Loading Module Microcrafting Helper
+[18:52:21] [main/INFO] [quark/]: Loading Module Narrator Readout
+[18:52:21] [main/INFO] [quark/]: Loading Module Overlay Shader
+[18:52:21] [main/INFO] [quark/]: Loading Module Pallet
+[18:52:21] [main/INFO] [quark/]: Loading Module Shiba
+[18:52:21] [modloading-worker-1/INFO] [Dungeon Crawl/]: Common Setup
+[18:52:21] [modloading-worker-1/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[18:52:21] [modloading-worker-1/INFO] [Dungeon Crawl/]: minecraft:overworld
+[18:52:21] [modloading-worker-3/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Overspawning lammergeiers...
+[18:52:21] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[18:52:21] [modloading-worker-2/INFO] [com.betterfpsdist.BetterfpsdistMod/]: betterfpsdist mod initialized
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:leash_knot_fake, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wrapped, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:frog, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:foxhound, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wraith, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:toretoise, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:stoneling, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:crab, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:shiba, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:forgotten, use EntityAttributeCreationEvent instead.
+[18:52:21] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[18:52:21] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[18:52:21] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[18:52:21] [modloading-worker-1/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
+[18:52:21] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[18:52:21] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[18:52:21] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[18:52:21] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[18:52:21] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[18:52:22] [modloading-worker-2/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[18:52:22] [modloading-worker-3/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18:52:22] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[18:52:22] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18:52:22] [modloading-worker-3/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[18:52:22] [modloading-worker-1/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
+[18:52:22] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
+[18:52:22] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
+[18:52:22] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[18:52:22] [modloading-worker-1/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[18:52:22] [modloading-worker-3/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[18:52:22] [modloading-worker-3/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
 java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:23) ~[shouldersurfing:1.16.5-4.10.5]
 	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[shouldersurfing:1.16.5-4.10.5]
@@ -251,150 +251,158 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:109) ~[modlauncher-mohist-8.1.3.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
 	... 17 more
-[16:41:26] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Base value out of range: 256 [-10-128]
-[16:41:27] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:41:27] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, saturn-mc1.16.5-0.0.3.jar, mowziesmobs-1.5.27.jar, treeharvester_1.16.5-5.9.jar, jei-1.16.5-7.8.0.1009.jar, abnormals_core-1.16.5-3.3.1.jar, torohealth-1.16.4-forge-4.jar, BetterCaves-Forge-1.16.4-1.1.2.jar, Waystones_1.16.5-7.6.4.jar, XaerosWorldMap_1.39.12_Forge_1.16.5.jar, EnhancedVisuals_v1.3.32_mc1.16.5.jar, comforts-forge-1.16.5-4.0.1.5.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, TravelersBackpack-1.16.5-5.4.51.jar, NaturesCompass-1.16.5-1.9.1-forge.jar, Artifacts-1.16.5-2.10.6.jar, YungsApi-1.16.4-Forge-13.jar, environmental-1.16.5-1.1.1.jar, DungeonCrawl-1.16.5-2.3.12.jar, betteranimalsplus-1.16.5-11.0.10-forge.jar, ExplorersCompass-1.16.5-1.1.2-forge.jar, walljump-forge-1.16.4-1.3.7.jar, JustEnoughResources-1.16.5-0.12.2.216.jar, KimetsuAnimation_1.16.5_ver5.jar, mohist-1.16.5-8c7caaf7-universal.jar, endergetic-1.16.5-3.0.2.jar, dummmmmmy-1.16.5-1.3.3.jar, supplementaries-1.16.5-0.18.5.jar, DynamicSurroundings-1.16.5-4.0.5.0.jar, selene-1.16.5-1.9.0.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, smoothchunk1.16.5-2.0.jar, Jade-1.16.4-2.8.3.jar, ShoulderSurfing-Forge-1.16.5-4.10.5.jar, CreativeCore_v2.2.1_mc1.16.5.jar, smoothboot-forge-1.16.4-1.2.2.jar, atmospheric-1.16.5-3.1.1.jar, spark-1.9.1-forge.jar, betterfpsdist-1.2.jar, notenoughanimations-forge-1.9.3-mc1.16.5.jar, curios-forge-1.16.5-4.1.0.0.jar, Curious+Armor+Stands-1.16.5-2.2.0.jar, Xaeros_Minimap_25.2.6_Forge_1.16.5.jar, collective-1.16.5-5.49.jar, autumnity-1.16.5-2.1.2.jar, AutoRegLib-1.6-49.jar, Quark-r2.4-322.jar, backpacked-forge-1.16.5-2.1.13.jar, tombstone-1.16.5-6.9.7.jar, obfuscate-0.6.3-1.16.5.jar, BetterStrongholds-1.16.4-1.2.1.jar, architectury-1.32.68.jar, ItemPhysic_v1.4.18_mc1.16.5.jar, KimetsunoYaiba_1.16.5_ver39.2.jar, expandability-2.0.1-forge.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, chunksending-1.16.5-2.5.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, geckolib-forge-1.16.5-3.0.106.jar, OriginalBreathes_1.16.5_ver1.jar, bukkit, voicechat-forge-1.16.5-2.5.35.jar
-[16:41:30] [Worker-Main2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
-[16:41:30] [Worker-Main2/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Loot Modification Manager has loaded 0 sets of modifiers
-[16:41:31] [Worker-Main2/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Advancement Modification Manager has loaded 11 sets of modifiers
-[16:41:32] [Worker-Main2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[16:41:32] [Worker-Main2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1,759 recipes
-[16:41:32] [Worker-Main2/INFO] [Dungeon Crawl/]: Loading data...
-[16:41:33] [Worker-Main2/INFO] [Dungeon Crawl/]: Done.
-[16:41:33] [Worker-Main2/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 55 Slabfish Types
-[16:41:33] [Worker-Main2/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 16 Sweater Types
-[16:41:33] [Worker-Main2/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 19 Backpack Types
-[16:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[16:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16:41:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
-[16:41:39] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[16:41:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:41:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16:41:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:41:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:41:40] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-8c7caaf7 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
-[16:41:41] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[16:41:41] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
-[16:41:41] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[16:41:41] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
-[16:41:41] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib/]: [ProtocolLib] Loading ProtocolLib v5.3.0
-[16:41:43] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Loading SkinsRestorer v15.7.8
-[16:41:43] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib/]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[16:41:43] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
-[16:41:46] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
-[16:41:48] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[16:41:48] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[16:41:48] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[16:41:48] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[16:41:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16:41:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16:41:51] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[16:41:51] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,895 ms
-[16:41:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
-[16:41:53] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[16:41:55] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
-[16:41:56] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
-[16:41:56] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
-[16:41:56] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 5,410 ms
-[16:41:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
-[16:41:57] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[16:41:57] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[16:41:57] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
-[16:41:58] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,226 ms
-[16:41:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension kimetsunoyaiba:mugen_castle
-[16:41:58] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[16:41:58] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[16:41:59] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
-[16:41:59] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,254 ms
-[16:41:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension kimetsunoyaiba:enmu_dream
-[16:42:00] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[16:42:00] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[16:42:01] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
-[16:42:02] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
-[16:42:02] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
-[16:42:03] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
-[16:42:03] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4,276 ms
-[16:42:03] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[16:42:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.519s)! For help, type "help"
-[16:42:04] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[16:42:04] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at 100.91.77.126:24454
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.7.8[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8c78340[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[16:42:04] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[16:43:00] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tmarsi219 is fa9e6abc-6e4a-352b-b5da-32290d78f2d4
-[16:43:01] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 67 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, voicechat, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
-[16:43:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tmarsi219[/100.122.158.7:50772] logged in with entity id 653 at (-818.631, 72, -387.392)
-[16:43:05] [Server thread/INFO] [Waila/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
-[16:43:06] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tmarsi219 (18)
-[16:43:06] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tmarsi219
-[16:43:12] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fa9e6abc-6e4a-352b-b5da-32290d78f2d4
-[16:43:13] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fa9e6abc-6e4a-352b-b5da-32290d78f2d4
-[16:43:13] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4) successfully connected to voice chat
-[16:43:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /skin RYZ0_
-[16:43:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /
-[16:43:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /difficulty easy
-[16:44:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /kill Tmarsi219
-[16:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Receive 40 Damage]
-[16:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 fell out of the world
-[16:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Killed Tmarsi219]
-[16:44:05] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[16:44:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
-[16:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[16:48:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
-[16:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[16:48:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /kill Tmarsi219
-[16:48:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Receive 80 Damage]
-[16:48:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 fell out of the world
-[16:48:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Killed Tmarsi219]
-[16:48:29] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[16:48:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
-[16:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[16:50:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
-[16:50:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[16:52:20] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Elmegabyt12 is e9403368-8ca6-3ea5-b9bd-41aea49f875f
-[16:52:20] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 67 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, voicechat, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
-[16:52:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Elmegabyt12[/100.65.128.61:50974] logged in with entity id 2,516 at (-991.838, 62.826, -251.107)
-[16:52:24] [Server thread/INFO] [Waila/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
-[16:52:27] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elmegabyt12 (18)
-[16:52:27] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elmegabyt12
-[16:52:34] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9403368-8ca6-3ea5-b9bd-41aea49f875f
-[16:52:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /deop Tmarsi219
-[16:52:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
-[16:52:35] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9403368-8ca6-3ea5-b9bd-41aea49f875f
-[16:52:35] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f) successfully connected to voice chat
-[16:56:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has reached the goal [Kanoto]
-[17:01:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 lost connection: Disconnected
-[17:01:52] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tmarsi219
-[17:01:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 left the game
-[17:13:58] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tmarsi219 is fa9e6abc-6e4a-352b-b5da-32290d78f2d4
-[17:13:59] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 67 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, voicechat, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
-[17:14:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tmarsi219[/100.122.158.7:51776] logged in with entity id 7,288 at (-768.425, 71, -416.531)
-[17:14:02] [Server thread/INFO] [Waila/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
-[17:14:03] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tmarsi219 (18)
-[17:14:03] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tmarsi219
-[17:14:10] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fa9e6abc-6e4a-352b-b5da-32290d78f2d4
-[17:14:11] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fa9e6abc-6e4a-352b-b5da-32290d78f2d4
-[17:14:11] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4) successfully connected to voice chat
-[17:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [A Strange Grave Dust]
-[17:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Receive 160 Damage]
-[17:19:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /skin RYZ0_
-[17:20:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 lost connection: Disconnected
-[17:20:56] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tmarsi219
-[17:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 left the game
-[17:28:41] [Worker-Main52/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
-[17:28:41] [Worker-Main52/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
-[17:28:41] [Worker-Main52/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
-[17:28:41] [Worker-Main52/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
-[17:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has made the advancement [Mission No.1]
+[18:52:26] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Base value out of range: 256 [-10-128]
+[18:52:27] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:52:28] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, saturn-mc1.16.5-0.0.3.jar, mowziesmobs-1.5.27.jar, treeharvester_1.16.5-5.9.jar, jei-1.16.5-7.8.0.1009.jar, abnormals_core-1.16.5-3.3.1.jar, torohealth-1.16.4-forge-4.jar, BetterCaves-Forge-1.16.4-1.1.2.jar, Waystones_1.16.5-7.6.4.jar, XaerosWorldMap_1.39.12_Forge_1.16.5.jar, EnhancedVisuals_v1.3.32_mc1.16.5.jar, comforts-forge-1.16.5-4.0.1.5.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, TravelersBackpack-1.16.5-5.4.51.jar, NaturesCompass-1.16.5-1.9.1-forge.jar, Artifacts-1.16.5-2.10.6.jar, YungsApi-1.16.4-Forge-13.jar, environmental-1.16.5-1.1.1.jar, DungeonCrawl-1.16.5-2.3.12.jar, betteranimalsplus-1.16.5-11.0.10-forge.jar, ExplorersCompass-1.16.5-1.1.2-forge.jar, walljump-forge-1.16.4-1.3.7.jar, JustEnoughResources-1.16.5-0.12.2.216.jar, KimetsuAnimation_1.16.5_ver5.jar, mohist-1.16.5-8c7caaf7-universal.jar, endergetic-1.16.5-3.0.2.jar, dummmmmmy-1.16.5-1.3.3.jar, supplementaries-1.16.5-0.18.5.jar, DynamicSurroundings-1.16.5-4.0.5.0.jar, selene-1.16.5-1.9.0.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, smoothchunk1.16.5-2.0.jar, Jade-1.16.4-2.8.3.jar, ShoulderSurfing-Forge-1.16.5-4.10.5.jar, CreativeCore_v2.2.1_mc1.16.5.jar, smoothboot-forge-1.16.4-1.2.2.jar, atmospheric-1.16.5-3.1.1.jar, spark-1.9.1-forge.jar, betterfpsdist-1.2.jar, notenoughanimations-forge-1.9.3-mc1.16.5.jar, curios-forge-1.16.5-4.1.0.0.jar, Curious+Armor+Stands-1.16.5-2.2.0.jar, Xaeros_Minimap_25.2.6_Forge_1.16.5.jar, collective-1.16.5-5.49.jar, autumnity-1.16.5-2.1.2.jar, AutoRegLib-1.6-49.jar, Quark-r2.4-322.jar, backpacked-forge-1.16.5-2.1.13.jar, tombstone-1.16.5-6.9.7.jar, obfuscate-0.6.3-1.16.5.jar, BetterStrongholds-1.16.4-1.2.1.jar, architectury-1.32.68.jar, ItemPhysic_v1.4.18_mc1.16.5.jar, KimetsunoYaiba_1.16.5_ver39.2.jar, expandability-2.0.1-forge.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, chunksending-1.16.5-2.5.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, geckolib-forge-1.16.5-3.0.106.jar, OriginalBreathes_1.16.5_ver1.jar, bukkit, voicechat-forge-1.16.5-2.5.35.jar
+[18:52:30] [Worker-Main2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
+[18:52:30] [Worker-Main2/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Loot Modification Manager has loaded 0 sets of modifiers
+[18:52:31] [Worker-Main2/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Advancement Modification Manager has loaded 11 sets of modifiers
+[18:52:32] [Worker-Main2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[18:52:32] [Worker-Main2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1,759 recipes
+[18:52:32] [Worker-Main2/INFO] [Dungeon Crawl/]: Loading data...
+[18:52:33] [Worker-Main2/INFO] [Dungeon Crawl/]: Done.
+[18:52:33] [Worker-Main2/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 55 Slabfish Types
+[18:52:33] [Worker-Main2/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 16 Sweater Types
+[18:52:33] [Worker-Main2/INFO] [com.minecraftabnormals.environmental.common.slabfish.SlabfishLoader/]: Loaded 19 Backpack Types
+[18:52:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[18:52:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18:52:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18:52:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18:52:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[18:52:38] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[18:52:38] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:52:38] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18:52:38] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:52:38] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:52:38] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-8c7caaf7 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
+[18:52:40] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[18:52:40] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[18:52:40] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[18:52:40] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
+[18:52:42] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Loading ClearLag v3.2.2
+[18:52:42] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading LuckPerms v5.5.10
+[18:52:42] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading configuration...
+[18:52:43] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib/]: [ProtocolLib] Loading ProtocolLib v5.3.0
+[18:52:44] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Loading SkinsRestorer v15.7.8
+[18:52:44] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Enabling LuckPerms v5.5.10
+[18:52:47] [Server thread/INFO] [/]:         __    
+[18:52:47] [Server thread/INFO] [/]:   |    |__)   LuckPerms v5.5.10
+[18:52:47] [Server thread/INFO] [/]:   |___ |      Running on Bukkit - Mohist
+[18:52:47] [Server thread/INFO] [/]: 
+[18:52:48] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading storage provider... [H2]
+[18:52:53] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading internal permission managers...
+[18:52:53] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Performing initial data load...
+[18:52:54] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Successfully enabled. (took 10156ms)
+[18:52:54] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib/]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[18:52:54] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[18:52:58] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[18:53:00] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[18:53:00] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[18:53:00] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[18:53:00] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[18:53:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18:53:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18:53:04] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18:53:05] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2,623 ms
+[18:53:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
+[18:53:06] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[18:53:09] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[18:53:09] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[18:53:10] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[18:53:10] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[18:53:11] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 5,943 ms
+[18:53:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
+[18:53:11] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18:53:11] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[18:53:12] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[18:53:12] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,093 ms
+[18:53:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension kimetsunoyaiba:mugen_castle
+[18:53:12] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18:53:12] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[18:53:13] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[18:53:13] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,133 ms
+[18:53:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension kimetsunoyaiba:enmu_dream
+[18:53:13] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18:53:14] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[18:53:15] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[18:53:16] [Worker-Main2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[18:53:16] [Worker-Main3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[18:53:16] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3,684 ms
+[18:53:16] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Enabling ClearLag v3.2.2
+[18:53:16] [Server thread/INFO] [Minecraft/]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[18:53:17] [Server thread/INFO] [Minecraft/]: [ClearLag] Loading modules...
+[18:53:17] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules enabed, loading config values
+[18:53:17] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules have been loaded!
+[18:53:17] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now enabled!
+[18:53:17] [Thread-18/INFO] [Minecraft/]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
+[18:53:17] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[18:53:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.733s)! For help, type "help"
+[18:53:17] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[18:53:17] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at 100.91.77.126:24454
+[18:53:17] [Thread-18/INFO] [Minecraft/]: [ClearLag] No updates found!
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.7.8[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8c78340[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[18:53:17] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[18:53:32] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tmarsi219 is fa9e6abc-6e4a-352b-b5da-32290d78f2d4
+[18:53:32] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 67 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, voicechat, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
+[18:53:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tmarsi219[/100.122.158.7:55917] logged in with entity id 717 at (-407.221, 78, -349.988)
+[18:53:36] [Server thread/INFO] [Waila/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[18:53:36] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tmarsi219 (18)
+[18:53:36] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tmarsi219
+[18:53:41] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fa9e6abc-6e4a-352b-b5da-32290d78f2d4
+[18:53:42] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fa9e6abc-6e4a-352b-b5da-32290d78f2d4
+[18:53:42] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4) successfully connected to voice chat
+[18:53:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Tmarsi219 a server operator
+[18:54:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /plugins
+[18:54:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /clearlag:lagg
+[18:54:44] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player juanluto is 218b6e9e-21be-3eec-8d87-a8a731d1db60
+[18:54:44] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 67 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, voicechat, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
+[18:54:52] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@59a9bd31[id=218b6e9e-21be-3eec-8d87-a8a731d1db60,name=juanluto,properties={},legacy=false] (/100.127.246.58:52132) lost connection: Disconnected
+[18:55:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /lagg area
+[18:55:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[18:55:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[18:55:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode spectator
+[18:55:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[18:55:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[18:55:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[18:55:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /lagg area 300
+[18:55:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /lagg clear
+[18:57:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[18:57:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18:57:18] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[18:57:18] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib/]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[18:57:18] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Disabling LuckPerms v5.5.10
+[18:57:18] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Starting shutdown process...
+[18:57:18] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Closing storage...
+[18:57:18] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Goodbye!
+[18:57:18] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Disabling ClearLag v3.2.2
+[18:57:18] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[18:57:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18:57:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 lost connection: Server closed
+[18:57:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 left the game
+[18:57:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18:57:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:57:21] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:57:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[18:57:22] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:57:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[18:57:22] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:57:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mugen_castle]'/kimetsunoyaiba:mugen_castle
+[18:57:23] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mugen_castle): All chunks are saved
+[18:57:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[enmu_dream]'/kimetsunoyaiba:enmu_dream
+[18:57:23] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (enmu_dream): All chunks are saved
+[18:57:24] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:57:24] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:57:24] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:57:24] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mugen_castle): All chunks are saved
+[18:57:24] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (enmu_dream): All chunks are saved
