@@ -659,3 +659,60 @@ Reason: Banned by an operator.
 [02:44:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Kanoto]
 [02:44:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 was slain by Demon
 [02:44:23] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Tmarsi219はKNES05に殺害された.player
+[02:45:20] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[02:45:21] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity EntityCentipedeBody['Cave Centipede Body'/13419, l='ServerLevel[world]', x=0.00, y=0.20, z=-0.84] left loaded chunk area
+[02:45:32] [Server thread/INFO] [/]: Unknown command. Type "/help" for help.
+[02:45:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Tmarsi219 to KNES05
+[02:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Kanoe]
+[02:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 has reached the goal [Mizunoe]
+[02:49:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 has made the advancement [Iron Maiden]
+[02:49:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Mission No.1]
+[02:52:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 has made the advancement [Pic-A-Nic Basket?]
+[02:54:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[02:54:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: time stime set night<--[HERE]
+[02:54:57] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 moved wrongly!
+[02:57:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KNES05 lost connection: Disconnected
+[02:57:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 left the game
+[02:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 was slain by Demon
+[02:57:44] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[02:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Tmarsi219 a server operator
+[02:58:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[02:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02:58:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[02:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [The Most Useful Key]
+[02:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [A Fast Comeback]
+[02:58:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has reached the goal [Easy Opening]
+[02:59:18] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=-2137, y=37, z=-366}
+[03:01:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 was slain by Horned Demon
+[03:01:27] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[03:01:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[03:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03:01:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode adventure
+[03:01:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[03:01:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[03:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03:01:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode adventure
+[03:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[03:01:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[03:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03:01:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode adventure
+[03:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[03:01:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode creative
+[03:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[03:01:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode adventure
+[03:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[03:01:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
+[03:01:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[03:02:10] [Worker-Main60/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2093, y=32, z=-393} Block{minecraft:spawner}
+[03:02:10] [Worker-Main60/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2095, y=32, z=-393} Block{minecraft:spawner}
+[03:02:10] [Worker-Main60/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2093, y=32, z=-392} Block{minecraft:chest}
+[03:02:10] [Worker-Main60/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2095, y=32, z=-392} Block{minecraft:chest}
+[03:02:10] [Worker-Main60/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2093, y=32, z=-392} Block{minecraft:chest}
+[03:02:10] [Worker-Main60/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2093, y=32, z=-393} Block{minecraft:spawner}
+[03:02:10] [Worker-Main60/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-2093, 32, -393)
+[03:02:10] [Worker-Main60/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2095, y=32, z=-392} Block{minecraft:chest}
+[03:02:10] [Worker-Main60/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2095, y=32, z=-393} Block{minecraft:spawner}
+[03:02:10] [Worker-Main60/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-2095, 32, -393)
+[03:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has made the advancement [Ashes 'n Bones]

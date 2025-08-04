@@ -899,6 +899,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-08-04 02:53:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -3305,6 +3311,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:kanoto": {
+    "criteria": {
+      "kanoto": "2025-08-04 02:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -4435,6 +4447,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:kanoe": {
+    "criteria": {
+      "kanoe": "2025-08-04 02:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -4765,6 +4783,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 02:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -5056,6 +5080,7 @@
       "autumnity:maple_forest": "2025-08-04 02:23:49 +0000",
       "autumnity:orange_spotted_dark_forest": "2025-08-04 02:24:42 +0000",
       "minecraft:forest": "2025-08-03 22:40:53 +0000",
+      "autumnity:yellow_spotted_forest": "2025-08-04 02:48:52 +0000",
       "minecraft:wooded_hills": "2025-08-04 02:22:22 +0000",
       "minecraft:plains": "2025-08-03 20:03:23 +0000"
     },
@@ -5118,6 +5143,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 02:58:22 +0000"
     },
     "done": true
   },
@@ -5226,6 +5257,12 @@
   "minecraft:recipes/travelersbackpack/gold_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mission_no_1": {
+    "criteria": {
+      "mission_no_1": "2025-08-04 02:49:34 +0000"
     },
     "done": true
   },
@@ -5711,6 +5748,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "environmental:venison": "2025-08-04 02:50:22 +0000",
       "bread": "2025-08-03 22:55:54 +0000"
     },
     "done": false
@@ -6072,6 +6110,12 @@
   "minecraft:recipes/travelersbackpack/pig_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-04 02:58:16 +0000"
     },
     "done": true
   },

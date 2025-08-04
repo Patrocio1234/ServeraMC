@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-08-04 02:49:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/sandstone_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-08-03 22:36:51 +0000"
@@ -2453,6 +2459,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-08-04 02:52:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "has_the_recipe": "2025-08-03 22:36:51 +0000"
@@ -3404,6 +3416,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_the_recipe": "2025-08-03 22:36:51 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mizunoto": {
+    "criteria": {
+      "mizunoto": "2025-08-04 02:44:20 +0000"
     },
     "done": true
   },
@@ -4359,6 +4377,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-03 22:54:04 +0000",
       "minecraft:spider": "2025-08-03 22:54:21 +0000",
+      "minecraft:piglin_brute": "2025-08-04 02:50:23 +0000",
       "minecraft:cave_spider": "2025-08-03 23:01:34 +0000",
       "minecraft:silverfish": "2025-08-03 23:01:45 +0000",
       "minecraft:stray": "2025-08-03 23:01:59 +0000",
@@ -5134,6 +5153,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:demon_slayer_corps": {
+    "criteria": {
+      "demon_slayer_corps": "2025-08-04 02:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
       "has_the_recipe": "2025-08-03 22:36:51 +0000"
@@ -5166,6 +5191,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-08-04 02:49:20 +0000",
       "minecraft:river": "2025-08-03 22:54:36 +0000",
       "minecraft:forest": "2025-08-03 22:36:51 +0000",
       "minecraft:wooded_hills": "2025-08-03 22:48:34 +0000",
@@ -6364,6 +6390,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-08-03 22:36:51 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mizunoe": {
+    "criteria": {
+      "mizunoe": "2025-08-04 02:46:51 +0000"
     },
     "done": true
   },
