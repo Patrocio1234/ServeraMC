@@ -586,3 +586,17 @@ Reason: Banned by an operator.
 [02:12:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
 [02:13:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KNES05 lost connection: Timed out
 [02:13:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 left the game
+[02:14:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /skin RYZ0_
+[02:14:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Tmarsi219 a server operator
+[02:15:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamerule kimetsuPvP true
+[02:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Gamerule kimetsuPvP is now set to: true]
+[02:15:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /deop Tmarsi219
+[02:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
+[02:15:31] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KNES05 is 0cb7ab45-dd8f-3695-9879-92d37e088337
+[02:15:31] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 66 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
+[02:15:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KNES05[/100.88.101.6:52163] logged in with entity id 4,768 at (-213.801, 18, -378.015)
+[02:15:42] [Server thread/INFO] [Waila/]: Syncing config to KNES05 (0cb7ab45-dd8f-3695-9879-92d37e088337)
+[02:16:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KNES05 lost connection: Timed out
+[02:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KNES05 left the game
+[02:22:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 was slain by Demon
+[02:22:43] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
