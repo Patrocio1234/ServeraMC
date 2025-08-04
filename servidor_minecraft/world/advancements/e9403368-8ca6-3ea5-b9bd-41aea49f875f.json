@@ -5240,6 +5240,7 @@
       "minecraft:river": "2025-08-03 22:03:27 +0000",
       "minecraft:wooded_mountains": "2025-08-03 22:03:33 +0000",
       "autumnity:maple_forest": "2025-08-03 22:25:55 +0000",
+      "minecraft:swamp": "2025-08-04 17:29:19 +0000",
       "autumnity:orange_spotted_dark_forest": "2025-08-03 22:28:36 +0000",
       "minecraft:forest": "2025-08-03 21:43:25 +0000",
       "autumnity:yellow_spotted_forest": "2025-08-03 22:29:47 +0000",
@@ -5419,6 +5420,12 @@
   "minecraft:recipes/travelersbackpack/gold_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-08-03 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mission_no_1": {
+    "criteria": {
+      "mission_no_1": "2025-08-04 17:31:06 +0000"
     },
     "done": true
   },

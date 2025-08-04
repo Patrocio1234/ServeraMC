@@ -393,3 +393,8 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [17:20:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 lost connection: Disconnected
 [17:20:56] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tmarsi219
 [17:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 left the game
+[17:28:41] [Worker-Main52/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[17:28:41] [Worker-Main52/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[17:28:41] [Worker-Main52/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[17:28:41] [Worker-Main52/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[17:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has made the advancement [Mission No.1]
