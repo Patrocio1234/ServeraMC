@@ -5023,8 +5023,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "environmental:marsh": "2025-08-04 19:11:22 +0000",
       "minecraft:river": "2025-08-04 18:03:50 +0000",
       "minecraft:forest": "2025-08-04 17:36:48 +0000",
+      "minecraft:wooded_hills": "2025-08-04 20:33:48 +0000",
       "minecraft:plains": "2025-08-04 17:37:41 +0000"
     },
     "done": false
@@ -5667,7 +5669,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "porkchop": "2025-08-04 18:18:54 +0000"
+      "porkchop": "2025-08-04 18:18:54 +0000",
+      "bread": "2025-08-04 19:09:16 +0000"
     },
     "done": false
   },
@@ -6190,6 +6193,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-08-04 17:36:48 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mizunoe": {
+    "criteria": {
+      "mizunoe": "2025-08-04 19:04:37 +0000"
     },
     "done": true
   },

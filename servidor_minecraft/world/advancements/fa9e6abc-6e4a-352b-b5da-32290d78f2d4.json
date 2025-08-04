@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-08-04 19:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -4217,6 +4223,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-04 19:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/ocelot_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
@@ -5207,10 +5219,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2025-08-03 23:43:50 +0000",
+      "minecraft:taiga": "2025-08-04 19:15:32 +0000",
+      "environmental:marsh": "2025-08-04 19:11:22 +0000",
       "autumnity:maple_forest_hills": "2025-08-04 02:23:59 +0000",
       "minecraft:dark_forest": "2025-08-04 02:26:38 +0000",
       "minecraft:river": "2025-08-03 22:55:57 +0000",
       "autumnity:maple_forest": "2025-08-04 02:23:49 +0000",
+      "minecraft:swamp": "2025-08-04 19:16:15 +0000",
       "autumnity:orange_spotted_dark_forest": "2025-08-04 02:24:42 +0000",
       "minecraft:forest": "2025-08-03 22:40:53 +0000",
       "autumnity:yellow_spotted_forest": "2025-08-04 02:48:52 +0000",
