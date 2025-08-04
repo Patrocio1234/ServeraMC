@@ -2153,6 +2153,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-08-04 17:16:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_oak": {
     "criteria": {
       "has_plank": "2025-08-03 22:51:41 +0000"
@@ -2384,6 +2390,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_60_damage": {
+    "criteria": {
+      "receive_60_damage": "2025-08-04 17:17:07 +0000"
     },
     "done": true
   },
@@ -4357,6 +4369,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-04 17:16:32 +0000",
       "minecraft:spider": "2025-08-03 20:52:02 +0000",
       "minecraft:creeper": "2025-08-04 02:09:49 +0000",
       "minecraft:zombie": "2025-08-03 20:28:16 +0000"

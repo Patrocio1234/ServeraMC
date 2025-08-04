@@ -378,3 +378,18 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [17:01:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 lost connection: Disconnected
 [17:01:52] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tmarsi219
 [17:01:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 left the game
+[17:13:58] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tmarsi219 is fa9e6abc-6e4a-352b-b5da-32290d78f2d4
+[17:13:59] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 67 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, voicechat, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
+[17:14:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tmarsi219[/100.122.158.7:51776] logged in with entity id 7,288 at (-768.425, 71, -416.531)
+[17:14:02] [Server thread/INFO] [Waila/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[17:14:03] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tmarsi219 (18)
+[17:14:03] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tmarsi219
+[17:14:10] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fa9e6abc-6e4a-352b-b5da-32290d78f2d4
+[17:14:11] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fa9e6abc-6e4a-352b-b5da-32290d78f2d4
+[17:14:11] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4) successfully connected to voice chat
+[17:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [A Strange Grave Dust]
+[17:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 has made the advancement [Receive 160 Damage]
+[17:19:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /skin RYZ0_
+[17:20:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 lost connection: Disconnected
+[17:20:56] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tmarsi219
+[17:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tmarsi219 left the game
