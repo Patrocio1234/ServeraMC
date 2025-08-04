@@ -3461,6 +3461,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:kanoto": {
+    "criteria": {
+      "kanoto": "2025-08-04 16:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_the_recipe": "2025-08-03 21:42:13 +0000"
@@ -4415,6 +4421,7 @@
       "minecraft:skeleton": "2025-08-03 22:07:41 +0000",
       "minecraft:spider": "2025-08-03 22:07:41 +0000",
       "minecraft:creeper": "2025-08-04 03:24:55 +0000",
+      "minecraft:enderman": "2025-08-04 16:53:36 +0000",
       "minecraft:zombie": "2025-08-03 21:42:47 +0000"
     },
     "done": false

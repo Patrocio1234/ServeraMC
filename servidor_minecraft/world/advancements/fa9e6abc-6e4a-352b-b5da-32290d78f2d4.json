@@ -3659,6 +3659,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:receive_40_damage": {
+    "criteria": {
+      "receive_40_damage": "2025-08-04 16:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_the_recipe": "2025-08-03 20:03:23 +0000"

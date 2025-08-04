@@ -363,3 +363,15 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [16:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Creative Mode]
 [16:50:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /gamemode survival
 [16:50:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[16:52:20] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Elmegabyt12 is e9403368-8ca6-3ea5-b9bd-41aea49f875f
+[16:52:20] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 67 mods : saturn, mowziesmobs, treeharvester, jei, abnormals_core, torohealth, bettercaves, waystones, xaeroworldmap, enhancedvisuals, comforts, citadel, alexsmobs, travelersbackpack, naturescompass, artifacts, yungsapi, environmental, dungeoncrawl, betteranimalsplus, explorerscompass, walljump, jeresources, kimetsuanimationplayer, forge, endergetic, dummmmmmy, supplementaries, dsurround, sndctrl, environs, mobeffects, selene, dungeons_arise, minecraft, smoothchunk, voicechat, jade, waila, shouldersurfing, creativecore, smoothboot, atmospheric, spark, betterfpsdist, notenoughanimations, curios, curious_armor_stands, xaerominimap, collective, autumnity, autoreglib, quark, backpacked, tombstone, obfuscate, betterstrongholds, architectury, itemphysic, kimetsunoyaiba, expandability, valhelsia_core, valhelsia_structures, chunksending, bettermineshafts, geckolib3, originalbreath
+[16:52:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Elmegabyt12[/100.65.128.61:50974] logged in with entity id 2,516 at (-991.838, 62.826, -251.107)
+[16:52:24] [Server thread/INFO] [Waila/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[16:52:27] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elmegabyt12 (18)
+[16:52:27] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elmegabyt12
+[16:52:34] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9403368-8ca6-3ea5-b9bd-41aea49f875f
+[16:52:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tmarsi219 issued server command: /deop Tmarsi219
+[16:52:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
+[16:52:35] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9403368-8ca6-3ea5-b9bd-41aea49f875f
+[16:52:35] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f) successfully connected to voice chat
+[16:56:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elmegabyt12 has reached the goal [Kanoto]
