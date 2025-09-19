@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-19 22:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-09-19 21:32:16 +0000",
@@ -558,6 +564,12 @@
       "minecraft:zombie": "2025-09-19 21:25:38 +0000"
     },
     "done": false
+  },
+  "travelersbackpack:recipes/travelersbackpack/cake": {
+    "criteria": {
+      "has_egg": "2025-09-19 22:33:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
