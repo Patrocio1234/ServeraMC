@@ -441,7 +441,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-09-19 21:35:33 +0000",
+      "minecraft:bamboo_jungle": "2025-09-19 22:57:52 +0000",
       "minecraft:savanna_plateau": "2025-09-19 21:09:03 +0000",
+      "minecraft:beach": "2025-09-19 22:55:15 +0000",
+      "minecraft:sparse_jungle": "2025-09-19 22:56:37 +0000",
       "minecraft:river": "2025-09-19 21:34:21 +0000",
       "minecraft:dripstone_caves": "2025-09-19 21:38:05 +0000",
       "minecraft:forest": "2025-09-19 20:43:51 +0000",
@@ -458,15 +461,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-09-19 22:37:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-19 22:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-19 22:37:47 +0000"
     },
     "done": true
   },

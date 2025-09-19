@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-09-19 22:56:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-09-19 00:30:25 +0000"
@@ -619,6 +625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-09-19 22:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-09-19 22:35:55 +0000"
@@ -1033,11 +1045,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-09-19 22:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-09-19 21:35:32 +0000",
+      "minecraft:bamboo_jungle": "2025-09-19 22:57:51 +0000",
       "minecraft:savanna_plateau": "2025-09-19 21:09:04 +0000",
+      "minecraft:beach": "2025-09-19 22:54:59 +0000",
+      "minecraft:sparse_jungle": "2025-09-19 22:55:10 +0000",
       "minecraft:river": "2025-09-19 20:40:21 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-19 22:54:36 +0000",
       "minecraft:dripstone_caves": "2025-09-19 01:08:28 +0000",
       "minecraft:forest": "2025-09-19 00:30:26 +0000",
       "minecraft:jungle": "2025-09-19 21:35:22 +0000",
@@ -1217,6 +1239,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-09-19 20:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-09-19 22:56:54 +0000"
     },
     "done": true
   },
