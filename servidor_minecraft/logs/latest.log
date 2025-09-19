@@ -278,3 +278,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [19Sep2025 21:33:53.314] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
 [19Sep2025 21:34:04.564] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
 [19Sep2025 21:34:09.007] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:35:42.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was turned into KFC by Fire Dragon
+[19Sep2025 21:35:42.582] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:35:42.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved wrongly!
+[19Sep2025 21:36:23.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[19Sep2025 21:36:44.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tmarsi219 to Empanadas
+[19Sep2025 21:36:45.213] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:36:49.613] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:37:52.537] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:38:00.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 died because of Valem
+[19Sep2025 21:38:00.361] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:38:00.361] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:38:00.362] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:38:00.363] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:38:00.364] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:38:21.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tmarsi219 to Empanadas
+[19Sep2025 21:38:21.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Sep2025 21:38:47.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[19Sep2025 21:39:12.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10076ms or 201 ticks behind
+[19Sep2025 21:39:35.590] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:39:46.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[19Sep2025 21:39:56.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Timed out
+[19Sep2025 21:39:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[19Sep2025 21:39:56.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/100.109.76.68:63049] logged in with entity id 28773 at (794.801454697147, 63.0, 553.3000000119209)
+[19Sep2025 21:39:56.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[19Sep2025 21:39:57.008] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c5704dc
+[19Sep2025 21:40:05.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4199ms or 83 ticks behind
+[19Sep2025 21:40:23.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2870ms or 57 ticks behind
+[19Sep2025 21:41:41.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[19Sep2025 21:42:00.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
+[19Sep2025 21:42:21.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5802ms or 116 ticks behind
+[19Sep2025 21:42:40.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4603ms or 92 ticks behind
+[19Sep2025 21:42:59.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3882ms or 77 ticks behind
+[19Sep2025 21:43:21.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7212ms or 144 ticks behind
+[19Sep2025 21:43:28.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas lost connection: Disconnected
+[19Sep2025 21:43:28.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas left the game
+[19Sep2025 21:43:31.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[19Sep2025 21:43:31.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game

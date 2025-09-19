@@ -517,10 +517,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-09-19 21:35:32 +0000",
       "minecraft:savanna_plateau": "2025-09-19 21:09:04 +0000",
       "minecraft:river": "2025-09-19 20:40:21 +0000",
       "minecraft:dripstone_caves": "2025-09-19 01:08:28 +0000",
       "minecraft:forest": "2025-09-19 00:30:26 +0000",
+      "minecraft:jungle": "2025-09-19 21:35:22 +0000",
       "minecraft:savanna": "2025-09-19 20:43:00 +0000",
       "minecraft:plains": "2025-09-19 20:40:42 +0000"
     },
