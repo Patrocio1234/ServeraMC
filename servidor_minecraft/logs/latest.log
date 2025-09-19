@@ -223,3 +223,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [19Sep2025 21:24:26.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [Chain Death]
 [19Sep2025 21:24:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was shot by Skeleton
 [19Sep2025 21:24:27.393] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:25:25.212] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:25:30.060] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:25:31.621] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:25:33.961] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:25:38.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Monster Hunter]
+[19Sep2025 21:26:03.661] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:26:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was shot by Skeleton
+[19Sep2025 21:26:05.024] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:26:56.515] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:26:58.441] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:27:02.541] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:27:03.127] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:27:04.084] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:27:32.068] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:27:33.083] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:27:34.063] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:27:35.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was slain by Spider
+[19Sep2025 21:27:35.074] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:27:40.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[19Sep2025 21:27:40.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[19Sep2025 21:27:49.438] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f210f97
+[19Sep2025 21:27:49.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/100.109.76.68:51835] logged in with entity id 13516 at (273.7212691792548, 98.0, -187.56169537267021)
+[19Sep2025 21:27:49.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[19Sep2025 21:27:49.465] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50a28c28
+[19Sep2025 21:28:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tmarsi219 a server operator
+[19Sep2025 21:28:04.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[19Sep2025 21:28:05.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[19Sep2025 21:28:10.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made Empanadas a server operator]
+[19Sep2025 21:28:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[19Sep2025 21:28:17.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[19Sep2025 21:28:26.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[19Sep2025 21:28:27.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[19Sep2025 21:28:34.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[19Sep2025 21:28:39.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[19Sep2025 21:28:47.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [The Most Useful Key]
+[19Sep2025 21:28:49.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[19Sep2025 21:28:52.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Empanadas: Set own game mode to Creative Mode]
+[19Sep2025 21:28:54.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [A Fast Comeback]
+[19Sep2025 21:29:06.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Empanadas]
+[19Sep2025 21:29:15.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[19Sep2025 21:29:18.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Empanadas: Set own game mode to Survival Mode]
+[19Sep2025 21:29:23.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [The Most Useful Key]
+[19Sep2025 21:29:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made Empanadas no longer a server operator]
+[19Sep2025 21:29:27.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
+[19Sep2025 21:29:33.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Knowledge of Death]
+[19Sep2025 21:29:33.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has reached the goal [A Fast Comeback]
+[19Sep2025 21:29:42.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has reached the goal [Easy Opening]
+[19Sep2025 21:29:53.123] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:30:05.467] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:33:48.264] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:33:50.619] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:33:50.766] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:33:53.314] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:34:04.564] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:34:09.007] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
