@@ -568,3 +568,5 @@ java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=f
 [19Sep2025 23:36:30.895] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
 [19Sep2025 23:39:59.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
 [19Sep2025 23:39:59.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[19Sep2025 23:42:42.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas lost connection: Disconnected
+[19Sep2025 23:42:42.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas left the game
