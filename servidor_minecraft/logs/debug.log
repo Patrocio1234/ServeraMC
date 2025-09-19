@@ -2592,3 +2592,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [19Sep2025 20:51:24.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Sep2025 20:51:24.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Sep2025 20:54:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Getting an Upgrade]
+[19Sep2025 20:56:24.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 20:56:24.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 20:56:34.947] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 20:56:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas died because of Valem
+[19Sep2025 20:56:41.976] [Server thread/DEBUG] [tombstone/]: A new grave of the player Empanadas was created at position [x:322, y:95, z:-164, dim:minecraft:overworld]
+[19Sep2025 20:56:41.978] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 20:56:41.978] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 20:56:41.978] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 20:56:41.981] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 20:56:41.982] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 20:58:32.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has reached the goal [Here They Come]
+[19Sep2025 21:01:24.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 21:01:24.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 21:01:44.427] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:47.639] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:48.676] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:49.725] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:50.734] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:51.833] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:52.978] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:54.178] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:55.283] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:56.277] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:57.279] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:01:59.478] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:02:28.886] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:02:38.887] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:02:48.239] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:03:12.929] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:03:17.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas died because of Vapor
+[19Sep2025 21:03:17.181] [Server thread/DEBUG] [tombstone/]: A new grave of the player Empanadas was created at position [x:391, y:87, z:-139, dim:minecraft:overworld]
+[19Sep2025 21:03:17.185] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:03:17.185] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:03:17.185] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:03:17.186] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:03:17.188] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
