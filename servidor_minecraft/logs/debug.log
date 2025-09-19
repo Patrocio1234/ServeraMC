@@ -4574,3 +4574,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [19Sep2025 00:34:49.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has reached the goal [Feelingwatched]
 [19Sep2025 00:35:56.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas lost connection: Disconnected
 [19Sep2025 00:35:56.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas left the game
+[19Sep2025 00:38:50.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:38:50.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 00:43:50.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:43:50.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 00:48:50.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 00:48:50.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
