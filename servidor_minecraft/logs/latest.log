@@ -440,3 +440,26 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.en
 [19Sep2025 23:09:22.558] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
 [19Sep2025 23:09:22.558] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
 [19Sep2025 23:09:22.558] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:09:51.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[19Sep2025 23:09:51.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp TP Tmarsi219 Empanadas<--[HERE]
+[19Sep2025 23:09:59.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tmarsi219 to Empanadas
+[19Sep2025 23:10:44.894] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:10:45.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was shot by Skeleton
+[19Sep2025 23:10:45.958] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:12:02.153] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:12:02.700] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:12:02.901] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:12:03.243] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:12:03.447] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:12:04.948] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:12:04.949] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:12:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was shot by Skeleton
+[19Sep2025 23:12:08.486] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:13:58.049] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:14:08.817] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:14:38.209] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:15:06.500] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:15:08.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was doomed to fall by Tmarsi219
+[19Sep2025 23:15:08.611] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:15:08.611] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:15:51.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Empanadas to Tmarsi219
