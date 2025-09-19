@@ -3251,3 +3251,53 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.en
 [19Sep2025 23:29:31.496] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
 [19Sep2025 23:29:34.448] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
 [19Sep2025 23:29:37.997] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:29:57.974] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:30:00.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was slain by Tmarsi219
+[19Sep2025 23:30:00.947] [Server thread/DEBUG] [tombstone/]: A new grave of the player Empanadas was created at position [x:1176, y:74, z:228, dim:minecraft:overworld]
+[19Sep2025 23:30:00.947] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:30:54.280] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@179691b3, suppressing error
+java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=facing, clazz=class net.minecraft.core.Direction, values=[north, south, west, east]} as it does not exist in Block{minecraft:air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7720_(ServerPlayer.java:820) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.world.level.block.BedBlock.m_6227_(BedBlock.java:115) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:714) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:340) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1060) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Sep2025 23:31:52.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[19Sep2025 23:32:07.720] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:32:10.918] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:32:14.091] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:32:17.262] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:32:19.855] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:32:21.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13867ms or 277 ticks behind
+[19Sep2025 23:32:23.063] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:32:30.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas died because of Valem
+[19Sep2025 23:32:30.792] [Server thread/DEBUG] [tombstone/]: A new grave of the player Empanadas was created at position [x:1173, y:74, z:234, dim:minecraft:overworld]
+[19Sep2025 23:32:30.793] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:32:30.793] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:32:30.794] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:32:30.795] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:32:30.796] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:34:46.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 23:34:46.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 23:36:30.895] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:39:46.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 23:39:46.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 23:39:59.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[19Sep2025 23:39:59.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
