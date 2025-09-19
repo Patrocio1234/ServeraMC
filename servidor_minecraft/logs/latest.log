@@ -463,3 +463,64 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.en
 [19Sep2025 23:15:08.611] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
 [19Sep2025 23:15:08.611] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
 [19Sep2025 23:15:51.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Empanadas to Tmarsi219
+[19Sep2025 23:20:32.159] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:20:44.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tmarsi219 to Empanadas
+[19Sep2025 23:20:45.990] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:20:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned to stone by Gorgon
+[19Sep2025 23:20:50.984] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:20:50.985] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:20:50.985] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:20:50.985] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:20:50.985] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:21:17.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Empanadas to Tmarsi219
+[19Sep2025 23:22:14.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was turned to stone by Gorgon
+[19Sep2025 23:22:14.052] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:22:14.052] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:22:14.052] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:22:14.052] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:22:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned to stone by Gorgon
+[19Sep2025 23:22:16.313] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:22:16.313] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:22:16.313] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:22:16.313] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:22:16.314] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:22:24.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Empanadas to Tmarsi219
+[19Sep2025 23:22:37.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tmarsi219 a server operator
+[19Sep2025 23:22:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Gave 1 [Ender Pearl] to 2]
+[19Sep2025 23:22:48.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
+[19Sep2025 23:23:05.367] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:23:05.796] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:23:06.156] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:23:17.116] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:23:21.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas moved too quickly! -27.244123544379818,0.0,17.533335923866275
+[19Sep2025 23:23:29.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was turned to stone by Gorgon
+[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:24:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tmarsi219 a server operator
+[19Sep2025 23:24:08.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[19Sep2025 23:24:15.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[19Sep2025 23:24:16.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned to stone by Gorgon
+[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:24:26.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [Easy Opening]
+[19Sep2025 23:24:30.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set spawn point to 1184, 74, 231 [0.0] in minecraft:overworld for 2 players]
+[19Sep2025 23:24:39.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has reached the goal [Chain Death]
+[19Sep2025 23:24:39.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned into gorgonzola by Gorgon
+[19Sep2025 23:24:40.727] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:24:40.727] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:24:40.728] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:24:40.728] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:24:40.728] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:25:16.356] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:25:20.745] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 23:25:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Clash of the Titans]
+[19Sep2025 23:29:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Clash of the Titans]
+[19Sep2025 23:29:31.496] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:29:34.448] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 23:29:37.997] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
