@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-09-19 22:47:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-09-19 20:48:32 +0000"
@@ -231,6 +237,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-09-19 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-09-19 22:47:33 +0000"
     },
     "done": true
   },
@@ -433,6 +445,7 @@
       "minecraft:river": "2025-09-19 21:34:21 +0000",
       "minecraft:dripstone_caves": "2025-09-19 21:38:05 +0000",
       "minecraft:forest": "2025-09-19 20:43:51 +0000",
+      "minecraft:desert": "2025-09-19 22:46:16 +0000",
       "minecraft:jungle": "2025-09-19 21:35:23 +0000",
       "minecraft:savanna": "2025-09-19 20:48:08 +0000",
       "minecraft:plains": "2025-09-19 20:47:19 +0000"
@@ -604,6 +617,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-09-19 21:28:47 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-09-19 22:50:47 +0000"
     },
     "done": true
   },
