@@ -2677,3 +2677,130 @@ java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=f
 [19Sep2025 22:38:47.662] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
 [19Sep2025 22:38:47.862] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
 [19Sep2025 22:38:47.963] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:48.163] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:49.272] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5485b959, suppressing error
+java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=facing, clazz=class net.minecraft.core.Direction, values=[north, south, west, east]} as it does not exist in Block{minecraft:air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7720_(ServerPlayer.java:820) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.world.level.block.BedBlock.m_6227_(BedBlock.java:115) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:714) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:340) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1060) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Sep2025 22:38:50.846] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:51.550] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:51.838] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:53.401] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:53.434] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:53.549] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:54.140] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:54.265] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:55.289] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:55.335] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:58.849] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:38:59.347] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:39:01.901] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:39:02.428] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:39:02.579] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:39:03.528] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:39:04.758] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.50]]
+[19Sep2025 22:39:06.148] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.70, y=78.56, z=600.70]]
+[19Sep2025 22:39:06.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas moved too quickly! -2.756212377189968,1.9986640208878583,30.817064151299405
+[19Sep2025 22:39:07.966] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.46, y=78.98, z=600.70]]
+[19Sep2025 22:39:09.862] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.71, y=79.56, z=600.70]]
+[19Sep2025 22:39:09.912] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.81, y=79.73, z=600.70]]
+[19Sep2025 22:39:11.562] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=78.98, z=600.70]]
+[19Sep2025 22:39:13.062] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=79.74, z=600.70]]
+[19Sep2025 22:39:14.006] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:39:14.412] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.35, y=79.06, z=600.70]]
+[19Sep2025 22:39:16.312] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=78.56, z=600.70]]
+[19Sep2025 22:39:16.462] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=78.56, z=600.70]]
+[19Sep2025 22:39:17.108] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:39:18.099] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:39:19.100] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:39:19.712] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=78.56, z=600.70]]
+[19Sep2025 22:39:20.017] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=78.56, z=600.70]]
+[19Sep2025 22:39:20.104] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:39:21.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was slain by The Silence
+[19Sep2025 22:39:21.104] [Server thread/DEBUG] [tombstone/]: A new grave of the player Empanadas was created at position [x:1073, y:69, z:577, dim:minecraft:overworld]
+[19Sep2025 22:39:21.114] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:39:21.312] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=78.56, z=600.70]]
+[19Sep2025 22:39:21.812] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=78.56, z=600.70]]
+[19Sep2025 22:39:23.712] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.87, y=78.56, z=600.58]]
+[19Sep2025 22:39:24.520] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.24, y=79.73, z=600.70]]
+[19Sep2025 22:39:24.920] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=78.56, z=600.70]]
+[19Sep2025 22:39:26.668] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1054.03, y=78.68, z=600.70]]
+[19Sep2025 22:39:26.912] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.30, y=78.91, z=600.53]]
+[19Sep2025 22:39:28.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 22:39:28.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 22:39:30.116] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Tmarsi219'/1063, l='ServerLevel[world]', x=1053.49, y=78.56, z=600.56]]
+[19Sep2025 22:39:56.701] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:40:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Fire Dragon
+[19Sep2025 22:40:56.966] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:1057, y:70, z:543, dim:minecraft:overworld]
+[19Sep2025 22:40:56.997] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:41:21.401] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:41:22.074] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:41:22.562] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:41:23.144] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:41:23.618] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:41:24.767] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:41:25.712] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:41:26.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was burnt to a crisp whilst fighting Fire Dragon
+[19Sep2025 22:41:26.698] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:1059, y:70, z:539, dim:minecraft:overworld]
+[19Sep2025 22:41:26.702] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:01.652] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:02.236] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:02.678] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:03.152] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:04.164] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:05.150] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:05.677] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:05.677] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:06.815] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:07.802] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:08.753] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:09.731] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:10.703] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:11.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was burnt to a crisp whilst fighting Fire Dragon
+[19Sep2025 22:42:11.728] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:941, y:65, z:511, dim:minecraft:overworld]
+[19Sep2025 22:42:11.732] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:42:12.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[19Sep2025 22:43:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tmarsi219 to Empanadas
+[19Sep2025 22:43:54.296] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:44:28.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Sep2025 22:44:28.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Sep2025 22:45:35.805] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:45:42.842] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:45:43.346] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:45:43.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned into KFC by Fire Dragon
+[19Sep2025 22:45:44.223] [Server thread/DEBUG] [tombstone/]: A new grave of the player Empanadas was created at position [x:838, y:62, z:516, dim:minecraft:overworld]
+[19Sep2025 22:45:44.235] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:46:29.709] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:46:30.708] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:46:31.700] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:46:32.710] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:46:33.699] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:46:33.748] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:46:34.203] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:46:34.702] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:46:35.228] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:46:35.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was turned into KFC by Fire Dragon
+[19Sep2025 22:46:35.732] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:791, y:67, z:563, dim:minecraft:overworld]
+[19Sep2025 22:46:35.767] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 22:47:24.101] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 22:48:24.209] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
