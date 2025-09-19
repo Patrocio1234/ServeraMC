@@ -1,38 +1,38 @@
-[19Sep2025 20:35:54.216] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[19Sep2025 20:35:54.220] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[19Sep2025 20:35:54.743] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServeraMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[19Sep2025 20:35:55.052] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[19Sep2025 20:35:55.055] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[19Sep2025 20:35:55.056] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[19Sep2025 20:35:55.058] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[19Sep2025 20:35:55.216] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[19Sep2025 20:35:56.897] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Sep2025 20:35:56.946] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[19Sep2025 20:35:57.143] [main/WARN] [mixin/]: Error loading class: atomicstryker/multimine/client/MultiMineClient (java.lang.ClassNotFoundException: atomicstryker.multimine.client.MultiMineClient)
-[19Sep2025 20:35:57.143] [main/WARN] [mixin/]: @Mixin target atomicstryker.multimine.client.MultiMineClient was not found treechop.forge.compat.mixins.json:MultiMineMixin
-[19Sep2025 20:35:58.057] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity::handler$zcg000$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[19Sep2025 20:36:02.051] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[19Sep2025 20:36:04.058] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
-[19Sep2025 20:36:04.872] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[19Sep2025 20:36:04.872] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[19Sep2025 20:36:04.938] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
-[19Sep2025 20:36:05.275] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@447d91ef has been registered twice for the same name treechop:chop_wood.
-[19Sep2025 20:36:07.298] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[19Sep2025 20:36:07.354] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[19Sep2025 20:36:07.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
-[19Sep2025 20:36:07.848] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[19Sep2025 20:36:07.849] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[19Sep2025 20:36:07.849] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[19Sep2025 20:36:07.850] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[19Sep2025 20:36:07.880] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[19Sep2025 20:36:07.881] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[19Sep2025 20:36:07.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.9+mod Target: null
-[19Sep2025 20:36:07.897] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[19Sep2025 20:36:07.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
-[19Sep2025 20:36:07.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[19Sep2025 20:36:08.005] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.3.9 Target: null
-[19Sep2025 20:36:08.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[19Sep2025 20:36:08.166] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[19Sep2025 21:14:38.860] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[19Sep2025 21:14:38.864] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[19Sep2025 21:14:39.370] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServeraMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[19Sep2025 21:14:39.668] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[19Sep2025 21:14:39.671] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[19Sep2025 21:14:39.672] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[19Sep2025 21:14:39.673] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[19Sep2025 21:14:39.826] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[19Sep2025 21:14:41.318] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Sep2025 21:14:41.362] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19Sep2025 21:14:41.570] [main/WARN] [mixin/]: Error loading class: atomicstryker/multimine/client/MultiMineClient (java.lang.ClassNotFoundException: atomicstryker.multimine.client.MultiMineClient)
+[19Sep2025 21:14:41.570] [main/WARN] [mixin/]: @Mixin target atomicstryker.multimine.client.MultiMineClient was not found treechop.forge.compat.mixins.json:MultiMineMixin
+[19Sep2025 21:14:42.426] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity::handler$zcg000$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[19Sep2025 21:14:46.682] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[19Sep2025 21:14:48.604] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
+[19Sep2025 21:14:49.290] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[19Sep2025 21:14:49.290] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[19Sep2025 21:14:49.368] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
+[19Sep2025 21:14:49.661] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@7b968647 has been registered twice for the same name treechop:chop_wood.
+[19Sep2025 21:14:51.317] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[19Sep2025 21:14:51.361] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[19Sep2025 21:14:51.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[19Sep2025 21:14:51.920] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[19Sep2025 21:14:51.921] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[19Sep2025 21:14:51.921] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[19Sep2025 21:14:51.922] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[19Sep2025 21:14:51.954] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[19Sep2025 21:14:51.955] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[19Sep2025 21:14:51.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.9+mod Target: null
+[19Sep2025 21:14:51.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[19Sep2025 21:14:52.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
+[19Sep2025 21:14:52.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[19Sep2025 21:14:52.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.3.9 Target: null
+[19Sep2025 21:14:52.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[19Sep2025 21:14:52.283] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -47,18 +47,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[19Sep2025 20:36:08.167] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Sep2025 20:36:08.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[19Sep2025 20:36:08.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
-[19Sep2025 20:36:08.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[19Sep2025 20:36:09.813] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Sep2025 20:36:11.058] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
-[19Sep2025 20:36:11.059] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
-[19Sep2025 20:36:11.088] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode::handler$zck000$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[19Sep2025 20:36:12.584] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
-[19Sep2025 20:36:12.606] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[19Sep2025 20:36:13.403] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[19Sep2025 20:36:13.847] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function dynamiclights:internal/sources/parse/extension_1194
+[19Sep2025 21:14:52.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Sep2025 21:14:52.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[19Sep2025 21:14:52.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
+[19Sep2025 21:14:52.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[19Sep2025 21:14:53.363] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Sep2025 21:14:54.229] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
+[19Sep2025 21:14:54.230] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
+[19Sep2025 21:14:54.251] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode::handler$zck000$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[19Sep2025 21:14:55.949] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[19Sep2025 21:14:55.968] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[19Sep2025 21:14:56.730] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[19Sep2025 21:14:57.095] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function dynamiclights:internal/sources/parse/extension_1194
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Invalid or unknown entity type 'minecraft:item_display' at position 19: ...s @s[type=<--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -74,7 +74,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[19Sep2025 20:36:13.848] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function dynamiclights:internal/water/rain_check_1194
+[19Sep2025 21:14:57.096] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function dynamiclights:internal/water/rain_check_1194
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Incorrect argument for command at position 11: ...xecute if <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -90,100 +90,136 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[19Sep2025 20:36:13.914] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
+[19Sep2025 21:14:57.160] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
 
-[19Sep2025 20:36:13.981] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1606 advancements
-[19Sep2025 20:36:14.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[19Sep2025 20:36:14.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Sep2025 20:36:14.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Sep2025 20:36:14.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Sep2025 20:36:14.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Sep2025 20:36:14.812] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Sep2025 20:36:14.908] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Sep2025 20:36:14.909] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Sep2025 20:36:14.909] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Sep2025 20:36:14.909] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Sep2025 20:36:14.935] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
-[19Sep2025 20:36:14.937] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
-[19Sep2025 20:36:15.011] [Server thread/INFO] [Framework/]: Loading server configs...
-[19Sep2025 20:36:15.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Sep2025 20:36:15.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Sep2025 20:36:22.600] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.601] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.615] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.618] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.619] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.623] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.624] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.625] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.627] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.628] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.633] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.634] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.638] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:22.991] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 20:36:23.488] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[19Sep2025 20:36:23.988] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
-[19Sep2025 20:36:24.488] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[19Sep2025 20:36:24.577] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8589 ms
-[19Sep2025 20:36:24.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.657s)! For help, type "help"
-[19Sep2025 20:36:24.734] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Sep2025 20:36:24.741] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[19Sep2025 20:36:24.741] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[19Sep2025 20:38:33.506] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[19Sep2025 20:38:33.549] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c7df03f
-[19Sep2025 20:38:33.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Empanadas[/100.85.169.116:50083] logged in with entity id 655 at (186.84264359037107, 63.0, -70.30000001192093)
-[19Sep2025 20:38:33.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas joined the game
-[19Sep2025 20:38:33.776] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1321341e
-[19Sep2025 20:39:29.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Stone Age]
-[19Sep2025 20:39:55.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Getting an Upgrade]
-[19Sep2025 20:40:55.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Monster Hunter]
-[19Sep2025 20:43:50.021] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fc01493
-[19Sep2025 20:43:50.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/100.109.76.68:51486] logged in with entity id 1940 at (0.5, 73.0, -6.5)
-[19Sep2025 20:43:50.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
-[19Sep2025 20:43:50.083] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7313f7ae
-[19Sep2025 20:43:50.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Ice and Fire]
-[19Sep2025 20:44:28.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [It's an Emu!!!]
-[19Sep2025 20:46:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Alex's Mobs]
-[19Sep2025 20:46:36.046] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 20:50:01.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Stone Age]
-[19Sep2025 20:50:17.741] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 20:50:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by entity.mimicer.mimicer
-[19Sep2025 20:50:23.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Your First Grave]
-[19Sep2025 20:50:23.303] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 20:50:24.322] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 20:50:25.458] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 20:50:27.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was slain by entity.mimicer.mimicer
-[19Sep2025 20:50:27.241] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 20:54:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Getting an Upgrade]
-[19Sep2025 20:56:34.947] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 20:56:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas died because of Valem
-[19Sep2025 20:56:41.978] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 20:56:41.978] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 20:56:41.978] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 20:56:41.981] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 20:56:41.982] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 20:58:32.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has reached the goal [Here They Come]
-[19Sep2025 21:01:44.427] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:47.639] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:48.676] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:49.725] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:50.734] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:51.833] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:52.978] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:54.178] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:55.283] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:56.277] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:57.279] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:01:59.478] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:02:28.886] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:02:38.887] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:02:48.239] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:03:12.929] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:03:17.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas died because of Vapor
-[19Sep2025 21:03:17.185] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:03:17.185] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:03:17.185] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:03:17.186] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 21:03:17.188] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:14:57.227] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1606 advancements
+[19Sep2025 21:14:57.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[19Sep2025 21:14:57.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Sep2025 21:14:57.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Sep2025 21:14:57.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Sep2025 21:14:58.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Sep2025 21:14:58.109] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Sep2025 21:14:58.200] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Sep2025 21:14:58.200] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Sep2025 21:14:58.201] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Sep2025 21:14:58.201] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Sep2025 21:14:58.227] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
+[19Sep2025 21:14:58.229] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
+[19Sep2025 21:14:58.368] [Server thread/INFO] [Framework/]: Loading server configs...
+[19Sep2025 21:14:58.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Sep2025 21:14:59.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Sep2025 21:15:05.162] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.163] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.170] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.173] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.183] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.184] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.187] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.188] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.195] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.419] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Sep2025 21:15:05.920] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[19Sep2025 21:15:06.419] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[19Sep2025 21:15:06.795] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7376 ms
+[19Sep2025 21:15:06.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.584s)! For help, type "help"
+[19Sep2025 21:15:06.825] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Sep2025 21:15:06.831] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[19Sep2025 21:15:06.831] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[19Sep2025 21:15:10.812] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[19Sep2025 21:15:10.876] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66d103fa
+[19Sep2025 21:15:10.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Empanadas[/100.85.169.116:50263] logged in with entity id 585 at (525.5431497700357, 119.0, -207.30000001192093)
+[19Sep2025 21:15:11.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas joined the game
+[19Sep2025 21:15:11.079] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5114f571
+[19Sep2025 21:15:14.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3604ms or 72 ticks behind
+[19Sep2025 21:15:15.561] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@34ef56da
+[19Sep2025 21:15:15.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/100.109.76.68:51728] logged in with entity id 629 at (525.3000000119209, 119.0, -209.32564871879978)
+[19Sep2025 21:15:15.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[19Sep2025 21:15:15.606] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@81fb689
+[19Sep2025 21:15:32.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[19Sep2025 21:15:51.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4617ms or 92 ticks behind
+[19Sep2025 21:16:10.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[19Sep2025 21:16:52.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[19Sep2025 21:17:03.025] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:17:04.425] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:17:04.983] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:17:26.018] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:17:29.864] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:17:30.871] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:17:35.194] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:17:35.641] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:17:39.765] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:17:40.762] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:17:42.444] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:18:42.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[19Sep2025 21:19:00.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[19Sep2025 21:19:57.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tmarsi219> la tuya
+[19Sep2025 21:20:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Empanadas> :v
+[19Sep2025 21:22:32.779] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:22:40.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas died because of Valem
+[19Sep2025 21:22:41.007] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:22:41.008] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:22:41.008] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:22:41.008] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:22:41.008] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:22:48.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[19Sep2025 21:23:06.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[19Sep2025 21:23:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Empanadas to Tmarsi219
+[19Sep2025 21:23:40.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
+[19Sep2025 21:23:40.680] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:40.799] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:41.216] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:41.261] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:41.615] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:41.663] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:42.116] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:42.171] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:42.612] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:42.658] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:43.108] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:43.155] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:43.598] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:43.648] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:44.115] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:44.150] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:44.605] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:44.658] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:45.101] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:45.157] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:45.605] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:45.646] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:46.105] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:46.148] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:46.611] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:46.648] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:47.105] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:47.155] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:47.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 suffocated in a wall
+[19Sep2025 21:23:47.606] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[19Sep2025 21:23:47.670] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:48.166] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:48.661] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:49.162] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:49.773] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:50.241] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:50.717] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:51.233] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:51.714] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:52.202] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:52.755] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:53.181] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:53.682] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:54.205] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:54.680] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:55.186] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:55.673] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:56.225] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:23:56.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas suffocated in a wall
+[19Sep2025 21:23:56.707] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
+[19Sep2025 21:24:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [Here They Come]
+[19Sep2025 21:24:26.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Knowledge of Death]
+[19Sep2025 21:24:26.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [Chain Death]
+[19Sep2025 21:24:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was shot by Skeleton
+[19Sep2025 21:24:27.393] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
