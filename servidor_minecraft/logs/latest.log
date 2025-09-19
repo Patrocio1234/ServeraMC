@@ -1268,3 +1268,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [19Sep2025 00:34:49.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has reached the goal [Feelingwatched]
 [19Sep2025 00:35:56.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas lost connection: Disconnected
 [19Sep2025 00:35:56.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas left the game
+[19Sep2025 01:07:52.112] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@723057b9
+[19Sep2025 01:07:52.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Empanadas[/100.85.169.116:61617] logged in with entity id 2255 at (159.1496657370158, 68.0, -24.03238279729333)
+[19Sep2025 01:07:52.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas joined the game
+[19Sep2025 01:07:52.151] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4994154e
+[19Sep2025 01:08:39.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas lost connection: Disconnected
+[19Sep2025 01:08:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas left the game
