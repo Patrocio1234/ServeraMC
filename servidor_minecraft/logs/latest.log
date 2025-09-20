@@ -1,572 +1,97 @@
-[19Sep2025 22:28:50.064] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[19Sep2025 22:28:50.068] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[19Sep2025 22:28:50.615] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServeraMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[19Sep2025 22:28:50.958] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[19Sep2025 22:28:50.962] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[19Sep2025 22:28:50.964] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[19Sep2025 22:28:50.968] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[19Sep2025 22:28:51.131] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[19Sep2025 22:28:52.910] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Sep2025 22:28:52.965] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[19Sep2025 22:28:53.176] [main/WARN] [mixin/]: Error loading class: atomicstryker/multimine/client/MultiMineClient (java.lang.ClassNotFoundException: atomicstryker.multimine.client.MultiMineClient)
-[19Sep2025 22:28:53.176] [main/WARN] [mixin/]: @Mixin target atomicstryker.multimine.client.MultiMineClient was not found treechop.forge.compat.mixins.json:MultiMineMixin
-[19Sep2025 22:28:54.139] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity::handler$zcg000$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[19Sep2025 22:28:58.227] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[19Sep2025 22:29:00.024] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
-[19Sep2025 22:29:00.719] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[19Sep2025 22:29:00.721] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[19Sep2025 22:29:00.819] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
-[19Sep2025 22:29:01.276] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@7b968647 has been registered twice for the same name treechop:chop_wood.
-[19Sep2025 22:29:02.895] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[19Sep2025 22:29:02.946] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[19Sep2025 22:29:03.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
-[19Sep2025 22:29:03.434] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[19Sep2025 22:29:03.435] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[19Sep2025 22:29:03.435] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[19Sep2025 22:29:03.436] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[19Sep2025 22:29:03.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.9+mod Target: null
-[19Sep2025 22:29:03.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[19Sep2025 22:29:03.474] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[19Sep2025 22:29:03.477] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[19Sep2025 22:29:03.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
-[19Sep2025 22:29:03.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[19Sep2025 22:29:03.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.3.9 Target: null
-[19Sep2025 22:29:03.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[19Sep2025 22:29:03.782] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23144!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23144!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
-	... 6 more
-[19Sep2025 22:29:03.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Sep2025 22:29:03.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[19Sep2025 22:29:03.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
-[19Sep2025 22:29:03.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[19Sep2025 22:29:04.955] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Sep2025 22:29:05.958] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
-[19Sep2025 22:29:05.959] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
-[19Sep2025 22:29:05.981] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode::handler$zck000$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[19Sep2025 22:29:07.420] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
-[19Sep2025 22:29:07.441] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[19Sep2025 22:29:08.205] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[19Sep2025 22:29:08.576] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function dynamiclights:internal/sources/parse/extension_1194
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Invalid or unknown entity type 'minecraft:item_display' at position 19: ...s @s[type=<--[HERE]
-	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Invalid or unknown entity type 'minecraft:item_display' at position 19: ...s @s[type=<--[HERE]
-	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 6 more
-[19Sep2025 22:29:08.577] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function dynamiclights:internal/water/rain_check_1194
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Incorrect argument for command at position 11: ...xecute if <--[HERE]
-	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Incorrect argument for command at position 11: ...xecute if <--[HERE]
-	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 6 more
-[19Sep2025 22:29:08.654] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
-
-[19Sep2025 22:29:08.725] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1606 advancements
-[19Sep2025 22:29:09.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[19Sep2025 22:29:09.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Sep2025 22:29:09.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Sep2025 22:29:09.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Sep2025 22:29:09.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Sep2025 22:29:09.505] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Sep2025 22:29:09.584] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Sep2025 22:29:09.585] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Sep2025 22:29:09.585] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Sep2025 22:29:09.585] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Sep2025 22:29:09.609] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
-[19Sep2025 22:29:09.611] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
-[19Sep2025 22:29:09.696] [Server thread/INFO] [Framework/]: Loading server configs...
-[19Sep2025 22:29:09.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Sep2025 22:29:10.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Sep2025 22:29:14.525] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:14.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:14.586] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:14.606] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:14.621] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:14.634] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:14.652] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:14.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:14.690] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:15.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:15.521] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Sep2025 22:29:16.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[19Sep2025 22:29:16.511] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[19Sep2025 22:29:16.970] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6459 ms
-[19Sep2025 22:29:16.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.374s)! For help, type "help"
-[19Sep2025 22:29:17.000] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Sep2025 22:29:17.006] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[19Sep2025 22:29:17.007] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[19Sep2025 22:30:18.019] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ecd0134[id=<null>,name=Empanadas,properties={},legacy=false] (/100.85.169.116:53878) lost connection: Disconnected
-[19Sep2025 22:31:26.070] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[19Sep2025 22:31:26.125] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e0768af
-[19Sep2025 22:31:26.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Empanadas[/100.85.169.116:53915] logged in with entity id 586 at (797.6999999880791, 63.0, 554.9351040644979)
-[19Sep2025 22:31:26.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas joined the game
-[19Sep2025 22:31:26.298] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@241e448c
-[19Sep2025 22:31:29.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
-[19Sep2025 22:31:59.330] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@be6f0f2
-[19Sep2025 22:31:59.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/100.109.76.68:64544] logged in with entity id 1063 at (796.25469558795, 63.0, 554.3773367511806)
-[19Sep2025 22:31:59.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
-[19Sep2025 22:31:59.432] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1303883a
-[19Sep2025 22:32:06.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[19Sep2025 22:32:37.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19Sep2025 22:33:28.401] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:33:37.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tmarsi219 to Empanadas
-[19Sep2025 22:34:27.659] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:35:54.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Acquire Hardware]
-[19Sep2025 22:35:55.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Isn't It Iron Pick]
-[19Sep2025 22:36:47.454] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:37:31.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
-[19Sep2025 22:37:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Sweet Dreams]
-[19Sep2025 22:38:23.455] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@1d21a145, suppressing error
-java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=facing, clazz=class net.minecraft.core.Direction, values=[north, south, west, east]} as it does not exist in Block{minecraft:air}
-	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_7720_(ServerPlayer.java:820) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.BedBlock.m_6227_(BedBlock.java:115) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:714) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:340) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1060) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[19Sep2025 22:38:24.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
-[19Sep2025 22:38:42.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas moved too quickly! -0.8278389960946697,0.7477966597462711,42.071158489239906
-[19Sep2025 22:38:49.272] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5485b959, suppressing error
-java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=facing, clazz=class net.minecraft.core.Direction, values=[north, south, west, east]} as it does not exist in Block{minecraft:air}
-	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_7720_(ServerPlayer.java:820) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.BedBlock.m_6227_(BedBlock.java:115) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:714) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:340) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1060) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[19Sep2025 22:39:06.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas moved too quickly! -2.756212377189968,1.9986640208878583,30.817064151299405
-[19Sep2025 22:39:14.006] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:39:17.108] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:39:18.099] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:39:19.100] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:39:20.104] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:39:21.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was slain by The Silence
-[19Sep2025 22:39:21.114] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:39:56.701] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:40:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Fire Dragon
-[19Sep2025 22:40:56.997] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:41:21.401] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:41:22.074] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:41:22.562] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:41:23.144] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:41:23.618] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:41:24.767] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:41:25.712] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:41:26.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was burnt to a crisp whilst fighting Fire Dragon
-[19Sep2025 22:41:26.702] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:01.652] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:02.236] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:02.678] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:03.152] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:04.164] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:05.150] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:05.677] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:05.677] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:06.815] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:07.802] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:08.753] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:09.731] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:10.703] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:11.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was burnt to a crisp whilst fighting Fire Dragon
-[19Sep2025 22:42:11.732] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:42:12.083] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
-[19Sep2025 22:43:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tmarsi219 to Empanadas
-[19Sep2025 22:43:54.296] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:45:35.805] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:45:42.842] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:45:43.346] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:45:43.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned into KFC by Fire Dragon
-[19Sep2025 22:45:44.235] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:46:29.709] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:46:30.708] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:46:31.700] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:46:32.710] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:46:33.699] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:46:33.748] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:46:34.203] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:46:34.702] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:46:35.228] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:46:35.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was turned into KFC by Fire Dragon
-[19Sep2025 22:46:35.767] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:47:24.101] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:48:24.209] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:49:10.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[19Sep2025 22:50:47.153] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@50a45119, suppressing error
-java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=facing, clazz=class net.minecraft.core.Direction, values=[north, south, west, east]} as it does not exist in Block{minecraft:air}
-	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_7720_(ServerPlayer.java:820) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.BedBlock.m_6227_(BedBlock.java:115) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:714) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:340) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1060) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[19Sep2025 22:50:54.996] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@3fbc81a1, suppressing error
-java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=facing, clazz=class net.minecraft.core.Direction, values=[north, south, west, east]} as it does not exist in Block{minecraft:air}
-	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_7720_(ServerPlayer.java:820) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.BedBlock.m_6227_(BedBlock.java:115) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:714) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:340) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1060) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[19Sep2025 22:51:05.307] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:51:13.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas moved too quickly! 13.011150074833267,1.0,27.1875
-[19Sep2025 22:52:23.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tmarsi219> Ez
-[19Sep2025 22:52:41.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Sweet Dreams]
-[19Sep2025 22:52:51.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Empanadas: la tuya
-[19Sep2025 22:53:17.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Empanadas: te voy a violar :D
-[19Sep2025 22:54:23.541] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:54:33.998] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 22:54:34.643] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:55:17.436] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 22:57:51.090] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:00:57.800] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:03:27.247] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
-	Index: 48
-	Listeners:
-		0: NORMAL
-		1: ASM: class sshh.ebalia.thesilence.procedures.TimerDormirxdProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		2: ASM: xaero.common.events.CommonEventsForge@19e160a7 handlePlayerTickStart(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		3: ASM: class sshh.ebalia.thesilence.procedures.SustoLaCosaRealRandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		4: ASM: class net.mcreator.whispersofthewendigo.procedures.TProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		5: ASM: class sshh.ebalia.thesilence.procedures.SustoCosaRandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		6: ASM: class sshh.ebalia.thesilence.procedures.SpawneoNothingPlayingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		7: ASM: class sshh.ebalia.thesilence.procedures.SonidoAmbientalProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		8: ASM: class sshh.ebalia.thesilence.procedures.ShadersSonidoProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		9: ASM: class sshh.ebalia.thesilence.procedures.ShadersProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		10: ASM: class sshh.ebalia.thesilence.procedures.ShadersPrincipalProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		11: ASM: class sshh.ebalia.thesilence.procedures.ShadersLeveScreamerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		12: ASM: class sshh.ebalia.thesilence.procedures.Shaders2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		13: ASM: class sshh.ebalia.thesilence.procedures.ShaderDimensionProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		14: ASM: class sshh.ebalia.thesilence.procedures.QuedarseQuieto2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		15: ASM: class sshh.ebalia.thesilence.procedures.PruebaBolsilloPlayerEntersDimensionProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		16: ASM: class sshh.ebalia.thesilence.procedures.Prueba2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		17: ASM: class sshh.ebalia.thesilence.procedures.NothingPlayingMetrosProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		18: ASM: class sshh.ebalia.thesilence.procedures.ColisionJugadorProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		19: ASM: class sshh.ebalia.thesilence.procedures.AparicionScreamerCosaProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		20: ASM: class sshh.ebalia.thesilence.procedures.AparicionCosa2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		21: ASM: class net.mcreator.man.procedures.TimerglobalProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		22: ASM: class sshh.ebalia.thesilence.procedures.Aliniciarmundo3Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		23: ASM: class net.mcreator.man.procedures.ShaderProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		24: ASM: class net.mcreator.man.procedures.SanitymultiplierProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		25: ASM: class net.mcreator.man.procedures.RitualenterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		26: ASM: class sshh.ebalia.thesilence.procedures.AlertaMoverseProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		27: ASM: class net.mcreator.man.procedures.NosleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		28: ASM: class sshh.ebalia.thesilence.procedures.AguaJugadorProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		29: ASM: class net.mcreator.man.procedures.LookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		30: ASM: class net.mcreator.man.procedures.JumpscareoverlayProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		31: ASM: class net.mcreator.man.procedures.JumpscareoverlayingameProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		32: ASM: class net.mcreator.man.procedures.Jumpscareoverlayig2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		33: ASM: class net.mcreator.man.procedures.ForesteffectProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		34: ASM: class net.mcreator.man.procedures.FakemanbacklookProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		35: ASM: class net.mcreator.man.procedures.BedclickedProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		36: ASM: class net.mcreator.midnightlurker.procedures.ScreenShakeProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		37: ASM: class net.mcreator.midnightlurker.procedures.LurkerfaceparticleprocedureProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		38: ASM: class net.mcreator.midnightlurker.procedures.JumpscareTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		39: ASM: class net.mcreator.midnightlurker.procedures.InsanityStageTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		40: ASM: class net.mcreator.midnightlurker.procedures.Insanitystage7Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		41: ASM: class net.mcreator.midnightlurker.procedures.InsanityoverlayrendersProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		42: ASM: class net.mcreator.midnightlurker.procedures.EncounterProcProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		43: ASM: class net.mcreator.midnightlurker.procedures.DeathJumpTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		44: ASM: class net.mcreator.midnightlurker.procedures.AmnesiaStageAddProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		45: ASM: class net.mcreator.midnightlurker.procedures.AggroPotionAddTickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		46: ASM: class com.tiviacz.travelersbackpack.handlers.ForgeEventHandler playerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		47: ASM: com.dairymoose.modernlife.core.ModernLifeCommon@48f7ce9b playerTickEvent(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		48: ASM: class net.mcreator.theknocker.procedures.RandomspawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		49: ASM: class net.mcreator.theknocker.procedures.PlayertickProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		50: ASM: class net.mcreator.theknocker.procedures.NightCounterProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		51: ASM: class net.mcreator.theknocker.procedures.CansleepProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		52: ASM: com.mrcrayfish.framework.event.ForgeEvents@216c01ed onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		53: ASM: class ichttt.mods.firstaid.common.EventHandler tickPlayers(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-		54: ASM: croissantnova.sanitydim.event.EventHandler@77baf9b1 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
-java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:70)
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23)
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:74)
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32)
-	at TRANSFORMER/the_knocker@1.4.0/net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@43.4.2/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:819)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:288)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129483_(Connection.java:248)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244)
-	at java.base/java.lang.Thread.run(Thread.java:840)
-
-[19Sep2025 23:03:27.272] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /100.109.76.68:64544
-net.minecraft.ReportedException: Ticking player
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20185_()" because "knocker" is null
-	at net.mcreator.theknocker.procedures.SpawnknockerProcedure.execute(SpawnknockerProcedure.java:70) ~[the_knocker-1.4.0-forge-1.19.2.jar%23134!/:?]
-	at net.mcreator.theknocker.procedures.RandomeventProcedure.execute(RandomeventProcedure.java:23) ~[the_knocker-1.4.0-forge-1.19.2.jar%23134!/:?]
-	at net.mcreator.theknocker.procedures.RandomspawnProcedure.execute(RandomspawnProcedure.java:74) ~[the_knocker-1.4.0-forge-1.19.2.jar%23134!/:?]
-	at net.mcreator.theknocker.procedures.RandomspawnProcedure.onPlayerTick(RandomspawnProcedure.java:32) ~[the_knocker-1.4.0-forge-1.19.2.jar%23134!/:?]
-	at net.mcreator.theknocker.procedures.__RandomspawnProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[the_knocker-1.4.0-forge-1.19.2.jar%23134!/:?]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:819) ~[forge-1.19.2-43.4.2-universal.jar%23148!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:288) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	... 9 more
-[19Sep2025 23:03:27.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Internal server error
-[19Sep2025 23:03:27.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
-[19Sep2025 23:03:34.304] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@14a84865
-[19Sep2025 23:03:34.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/100.109.76.68:64958] logged in with entity id 25091 at (1340.0384978057762, 93.0, 338.92748033262063)
-[19Sep2025 23:03:34.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
-[19Sep2025 23:03:34.377] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@138ce830
-[19Sep2025 23:08:20.945] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:08:24.594] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:08:25.591] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:08:30.703] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:08:34.503] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:08:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was slain by The Silence
-[19Sep2025 23:08:36.028] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:09:19.393] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:09:20.395] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:09:22.293] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:09:22.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was doomed to fall by Man From The Fog
-[19Sep2025 23:09:22.557] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:09:22.558] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:09:22.558] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:09:22.558] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:09:51.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
-[19Sep2025 23:09:51.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp TP Tmarsi219 Empanadas<--[HERE]
-[19Sep2025 23:09:59.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tmarsi219 to Empanadas
-[19Sep2025 23:10:44.894] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:10:45.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was shot by Skeleton
-[19Sep2025 23:10:45.958] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:12:02.153] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:12:02.700] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:12:02.901] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:12:03.243] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:12:03.447] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:12:04.948] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:12:04.949] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:12:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was shot by Skeleton
-[19Sep2025 23:12:08.486] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:13:58.049] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:14:08.817] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:14:38.209] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:15:06.500] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:15:08.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was doomed to fall by Tmarsi219
-[19Sep2025 23:15:08.611] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:15:08.611] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:15:51.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Empanadas to Tmarsi219
-[19Sep2025 23:20:32.159] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:20:44.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tmarsi219 to Empanadas
-[19Sep2025 23:20:45.990] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:20:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned to stone by Gorgon
-[19Sep2025 23:20:50.984] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:20:50.985] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:20:50.985] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:20:50.985] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:20:50.985] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:21:17.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Empanadas to Tmarsi219
-[19Sep2025 23:22:14.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was turned to stone by Gorgon
-[19Sep2025 23:22:14.052] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:22:14.052] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:22:14.052] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:22:14.052] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:22:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned to stone by Gorgon
-[19Sep2025 23:22:16.313] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:22:16.313] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:22:16.313] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:22:16.313] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:22:16.314] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:22:24.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Empanadas to Tmarsi219
-[19Sep2025 23:22:37.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tmarsi219 a server operator
-[19Sep2025 23:22:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Gave 1 [Ender Pearl] to 2]
-[19Sep2025 23:22:48.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made Tmarsi219 no longer a server operator]
-[19Sep2025 23:23:05.367] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:23:05.796] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:23:06.156] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:23:17.116] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:23:21.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas moved too quickly! -27.244123544379818,0.0,17.533335923866275
-[19Sep2025 23:23:29.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was turned to stone by Gorgon
-[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:23:29.247] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:24:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tmarsi219 a server operator
-[19Sep2025 23:24:08.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[19Sep2025 23:24:15.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[19Sep2025 23:24:16.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned to stone by Gorgon
-[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:24:17.389] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:24:26.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [Easy Opening]
-[19Sep2025 23:24:30.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set spawn point to 1184, 74, 231 [0.0] in minecraft:overworld for 2 players]
-[19Sep2025 23:24:39.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has reached the goal [Chain Death]
-[19Sep2025 23:24:39.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was turned into gorgonzola by Gorgon
-[19Sep2025 23:24:40.727] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:24:40.727] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:24:40.728] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:24:40.728] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:24:40.728] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:25:16.356] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:25:20.745] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:25:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas has made the advancement [Clash of the Titans]
-[19Sep2025 23:29:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Clash of the Titans]
-[19Sep2025 23:29:31.496] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:29:34.448] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:29:37.997] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:29:57.974] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:30:00.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas was slain by Tmarsi219
-[19Sep2025 23:30:00.947] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:30:54.280] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@179691b3, suppressing error
-java.lang.IllegalArgumentException: Cannot get property DirectionProperty{name=facing, clazz=class net.minecraft.core.Direction, values=[north, south, west, east]} as it does not exist in Block{minecraft:air}
-	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_7720_(ServerPlayer.java:820) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.BedBlock.m_6227_(BedBlock.java:115) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:714) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:340) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1060) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23143!/:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[19Sep2025 23:31:52.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[19Sep2025 23:32:07.720] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:32:10.918] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:32:14.091] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:32:17.262] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:32:19.855] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[19Sep2025 23:32:21.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13867ms or 277 ticks behind
-[19Sep2025 23:32:23.063] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:32:30.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas died because of Valem
-[19Sep2025 23:32:30.793] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:32:30.793] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:32:30.794] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:32:30.795] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:32:30.796] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:36:30.895] [Server thread/INFO] [tombstone/]: The player Empanadas has successfully been saved
-[19Sep2025 23:39:59.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
-[19Sep2025 23:39:59.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
-[19Sep2025 23:42:42.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Empanadas lost connection: Disconnected
-[19Sep2025 23:42:42.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Empanadas left the game
+[20Sep2025 18:37:53.007] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[20Sep2025 18:37:53.011] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[20Sep2025 18:37:53.094] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/ServeraMC/servidor_minecraft/config/fml.toml is not correct. Correcting
+[20Sep2025 18:37:53.096] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[20Sep2025 18:37:53.097] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[20Sep2025 18:37:53.097] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[20Sep2025 18:37:53.098] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[20Sep2025 18:37:53.112] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Sep2025 18:37:53.154] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServeraMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20Sep2025 18:37:53.374] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20Sep2025 18:37:53.375] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Sep2025 18:37:53.377] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Sep2025 18:37:53.379] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Sep2025 18:37:53.479] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20Sep2025 18:37:55.115] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Sep2025 18:38:01.160] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20Sep2025 18:38:01.164] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[20Sep2025 18:38:01.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Sep2025 18:38:02.220] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[20Sep2025 18:38:02.942] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Sep2025 18:38:03.572] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[20Sep2025 18:38:03.572] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServeraMC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[20Sep2025 18:38:05.150] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[20Sep2025 18:38:05.340] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[20Sep2025 18:38:05.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20Sep2025 18:38:05.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Sep2025 18:38:05.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Sep2025 18:38:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Sep2025 18:38:05.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Sep2025 18:38:05.963] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Sep2025 18:38:06.034] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Sep2025 18:38:06.034] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Sep2025 18:38:06.035] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Sep2025 18:38:06.035] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Sep2025 18:38:06.057] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[20Sep2025 18:38:06.058] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Sep2025 18:38:06.059] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[20Sep2025 18:38:06.059] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[20Sep2025 18:38:06.060] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[20Sep2025 18:38:06.060] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[20Sep2025 18:38:06.060] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[20Sep2025 18:38:06.061] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[20Sep2025 18:38:06.061] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[20Sep2025 18:38:06.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Sep2025 18:38:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Sep2025 18:38:15.076] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[20Sep2025 18:38:15.078] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[20Sep2025 18:38:15.287] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[20Sep2025 18:38:15.768] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[20Sep2025 18:38:16.276] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Sep2025 18:38:16.788] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[20Sep2025 18:38:17.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[20Sep2025 18:38:17.773] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[20Sep2025 18:38:18.279] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[20Sep2025 18:38:18.785] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[20Sep2025 18:38:19.269] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[20Sep2025 18:38:19.768] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[20Sep2025 18:38:20.272] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[20Sep2025 18:38:20.865] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[20Sep2025 18:38:21.269] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[20Sep2025 18:38:21.782] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[20Sep2025 18:38:22.274] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[20Sep2025 18:38:22.770] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[20Sep2025 18:38:23.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[20Sep2025 18:38:23.790] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[20Sep2025 18:38:24.313] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
+[20Sep2025 18:38:24.807] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[20Sep2025 18:38:25.275] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[20Sep2025 18:38:25.770] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[20Sep2025 18:38:26.269] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[20Sep2025 18:38:26.769] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
+[20Sep2025 18:38:27.282] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[20Sep2025 18:38:27.768] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[20Sep2025 18:38:28.269] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[20Sep2025 18:38:28.784] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[20Sep2025 18:38:29.276] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[20Sep2025 18:38:29.777] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[20Sep2025 18:38:30.291] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[20Sep2025 18:38:30.769] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[20Sep2025 18:38:31.276] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[20Sep2025 18:38:31.773] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[20Sep2025 18:38:32.274] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
+[20Sep2025 18:38:32.772] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[20Sep2025 18:38:33.276] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[20Sep2025 18:38:33.769] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[20Sep2025 18:38:34.287] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[20Sep2025 18:38:34.770] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[20Sep2025 18:38:35.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
+[20Sep2025 18:38:35.851] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[20Sep2025 18:38:36.291] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[20Sep2025 18:38:36.769] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[20Sep2025 18:38:37.271] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[20Sep2025 18:38:37.777] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[20Sep2025 18:38:38.286] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[20Sep2025 18:38:38.373] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 24106 ms
+[20Sep2025 18:38:38.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.324s)! For help, type "help"
+[20Sep2025 18:38:38.391] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
